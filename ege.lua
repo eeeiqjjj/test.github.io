@@ -10,12 +10,12 @@ local CoreGui = game:GetService("CoreGui")
 WindUI:AddTheme({
     Name = "Ringta",
     Accent = Color3.fromHex("#FFFFFF"),
-    Dialog = Color3.fromHex("#FFFFFF"),
-    Outline = Color3.fromHex("#FFFFFF"),
+    Dialog = Color3.fromHex("#22232B"),
+    Outline = Color3.fromHex("#36373F"),
     Text = Color3.fromHex("#FFFFFF"),
     Placeholder = Color3.fromHex("#BBBBBB"),
-    Background = Color3.fromHex("#101013"),
-    Button = Color3.fromHex("#FFFFFF"),
+    Background = Color3.fromHex("#181921"),
+    Button = Color3.fromHex("#45464E"),
     Icon = Color3.fromHex("#FFFFFF")
 })
 
@@ -28,20 +28,20 @@ local Window = WindUI:CreateWindow({
     Author = "ring",
     Folder = "RING",
     Background = "rbxassetid://73030878244406",
-    BackgroundTransparency = 0.03,
+    BackgroundTransparency = 0.7,
     Size = UDim2.fromOffset(500, 350),
     Transparent = false,
     SideBarWidth = 200,
 })
 
-Window:SetBackgroundImageTransparency(0.01)
+Window:SetBackgroundImageTransparency(0.3)
 
 Window:EditOpenButton({
-    Title = "Open The e",
+    Title = "Open The Scripta",
     Icon = "monitor",
     CornerRadius = UDim.new(0, 6),
     StrokeThickness = 2,
-    Color = ColorSequence.new(Color3.fromRGB(0, 0, 0), Color3.fromRGB(255, 255, 255)),
+    Color = ColorSequence.new(Color3.fromRGB(30, 30, 30), Color3.fromRGB(255, 255, 255)),
     Draggable = true,
 })
 
@@ -65,7 +65,7 @@ local Tabs = {
 Tabs.Home:Section({
     Title = "Window",
     TextXAlignment = "Left",
-    TextSize = 21,
+    TextSize = 18,
     Icon = "app-window-mac"
 })
 
@@ -79,7 +79,7 @@ Tabs.Home:Dropdown({
     Title = "Theme",
     Multi = false,
     AllowNone = false,
-    Value = "Dark",
+    Value = "Ringta",
     Values = Themes,
     Callback = function(v)
         WindUI:SetTheme(v)
@@ -127,12 +127,6 @@ Tabs.AutoDays:Button({
 
 for _, tab in pairs(Tabs) do
     if tab.SetTabColor then
-        tab:SetTabColor(Color3.fromRGB(0, 0, 0))
+        tab:SetTabColor(Color3.fromRGB(30, 30, 30))
     end
-end
-
-WindUI:SetAccent(Color3.fromRGB(255,255,255))
-
-if WindUI.SetTextColor then
-    WindUI:SetTextColor(Color3.fromRGB(255,255,255))
 end
