@@ -14,20 +14,20 @@ local Window = WindUI:CreateWindow({
     Author = "ring",
     Folder = "RING",
     Background = "rbxassetid://73030878244406",
-    BackgroundTransparency = 0.05,
+    BackgroundTransparency = 0.03, -- almost fully solid UI background
     Size = UDim2.fromOffset(500, 350),
     Transparent = false,
     SideBarWidth = 200,
 })
 
-Window:SetBackgroundImageTransparency(0.05)
+Window:SetBackgroundImageTransparency(0.01) -- almost fully solid image
 
 Window:EditOpenButton({
-    Title = "Open The Script",
+    Title = "Open The e",
     Icon = "monitor",
     CornerRadius = UDim.new(0, 6),
     StrokeThickness = 2,
-    Color = ColorSequence.new(Color3.fromRGB(30, 30, 30), Color3.fromRGB(255, 255, 255)),
+    Color = ColorSequence.new(Color3.fromRGB(0, 0, 0), Color3.fromRGB(255, 255, 255)),
     Draggable = true,
 })
 
@@ -51,7 +51,7 @@ local Tabs = {
 Tabs.Home:Section({
     Title = "Window",
     TextXAlignment = "Left",
-    TextSize = 19,
+    TextSize = 21,
     Icon = "app-window-mac"
 })
 
@@ -110,3 +110,16 @@ Tabs.AutoDays:Button({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/castletpfast.github.io/refs/heads/main/FASTCASTLE.lua"))()
     end,
 })
+
+for _, tab in pairs(Tabs) do
+    if tab.SetTabColor then
+        tab:SetTabColor(Color3.fromRGB(0, 0, 0)) -- solid black for max contrast
+    end
+end
+
+WindUI:SetAccent(Color3.fromRGB(255,255,255)) -- pure white accent for all toggles/buttons/highlights
+
+-- Optionally, if WindUI supports it, set all text to pure white for even more visibility:
+if WindUI.SetTextColor then
+    WindUI:SetTextColor(Color3.fromRGB(255,255,255))
+end
