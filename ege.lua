@@ -28,13 +28,13 @@ local Window = WindUI:CreateWindow({
     Author = "ring",
     Folder = "RING",
     Background = "rbxassetid://73030878244406",
-    BackgroundTransparency = 0.1,
+    BackgroundTransparency = 0.7,
     Size = UDim2.fromOffset(500, 350),
     Transparent = false,
     SideBarWidth = 200,
 })
 
-Window:SetBackgroundImageTransparency(0.1)
+Window:SetBackgroundImageTransparency(0.3)
 
 Window:EditOpenButton({
     Title = "Open The Scripta",
