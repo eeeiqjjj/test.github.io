@@ -7,6 +7,23 @@ local Workspace = game:GetService("Workspace")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CoreGui = game:GetService("CoreGui")
 
+
+WindUI:AddTheme({
+    Name = "Ringta",
+    Accent = Color3.fromHex("#FFFFFF"),
+    Dialog = Color3.fromHex("#FFFFFF"),
+    Outline = Color3.fromHex("#FFFFFF"),
+    Text = Color3.fromHex("#FFFFFF"),
+    Placeholder = Color3.fromHex("#BBBBBB"),
+    Background = Color3.fromHex("#101013"),
+    Button = Color3.fromHex("#FFFFFF"),
+    Icon = Color3.fromHex("#FFFFFF")
+})
+
+Theme = "Ringta"
+
+WindUI:SetTheme("Ringta")
+
 local Window = WindUI:CreateWindow({
     Title = "RINGTA",
     Icon = "rbxassetid://73030878244406",
