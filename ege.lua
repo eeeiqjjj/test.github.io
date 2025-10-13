@@ -7,7 +7,6 @@ local Workspace = game:GetService("Workspace")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CoreGui = game:GetService("CoreGui")
 
-
 WindUI:AddTheme({
     Name = "Ringta",
     Accent = Color3.fromHex("#FFFFFF"),
@@ -20,8 +19,6 @@ WindUI:AddTheme({
     Icon = Color3.fromHex("#FFFFFF")
 })
 
-Theme = "Ringta"
-
 WindUI:SetTheme("Ringta")
 
 local Window = WindUI:CreateWindow({
@@ -31,13 +28,13 @@ local Window = WindUI:CreateWindow({
     Author = "ring",
     Folder = "RING",
     Background = "rbxassetid://73030878244406",
-    BackgroundTransparency = 0.03, -- almost fully solid UI background
+    BackgroundTransparency = 0.03,
     Size = UDim2.fromOffset(500, 350),
     Transparent = false,
     SideBarWidth = 200,
 })
 
-Window:SetBackgroundImageTransparency(0.01) -- almost fully solid image
+Window:SetBackgroundImageTransparency(0.01)
 
 Window:EditOpenButton({
     Title = "Open The e",
@@ -130,13 +127,12 @@ Tabs.AutoDays:Button({
 
 for _, tab in pairs(Tabs) do
     if tab.SetTabColor then
-        tab:SetTabColor(Color3.fromRGB(0, 0, 0)) -- solid black for max contrast
+        tab:SetTabColor(Color3.fromRGB(0, 0, 0))
     end
 end
 
-WindUI:SetAccent(Color3.fromRGB(255,255,255)) -- pure white accent for all toggles/buttons/highlights
+WindUI:SetAccent(Color3.fromRGB(255,255,255))
 
--- Optionally, if WindUI supports it, set all text to pure white for even more visibility:
 if WindUI.SetTextColor then
     WindUI:SetTextColor(Color3.fromRGB(255,255,255))
 end
