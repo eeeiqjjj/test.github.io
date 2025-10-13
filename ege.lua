@@ -15,7 +15,7 @@ WindUI:AddTheme({
     Text = Color3.fromHex("#FFFFFF"),
     Placeholder = Color3.fromHex("#BBBBBB"),
     Background = Color3.fromHex("#181921"),
-    Button = Color3.fromHex("#45464E"),
+    Button = Color3.fromHex("#a2ff30"),
     Icon = Color3.fromHex("#FFFFFF")
 })
 
@@ -37,7 +37,7 @@ local Window = WindUI:CreateWindow({
 Window:SetBackgroundImageTransparency(0.3)
 
 Window:EditOpenButton({
-    Title = "Open The Scripta",
+    Title = "Open The Script",
     Icon = "monitor",
     CornerRadius = UDim.new(0, 6),
     StrokeThickness = 2,
@@ -113,6 +113,10 @@ Tabs.AutoDays:Toggle({
 
 Tabs.AutoDays:Button({
     Title = "Auto Rescue All Kids",
+    Color = Color3.fromHex("#a2ff30"),
+    Justify = "Center",
+    IconAlign = "Left",
+    Icon = "",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/castletpfast.github.io/refs/heads/main/FASTCASTLE.lua"))()
     end,
@@ -120,6 +124,10 @@ Tabs.AutoDays:Button({
 
 Tabs.AutoDays:Button({
     Title = "Diamond Farm Fast",
+    Color = Color3.fromHex("#a2ff30"),
+    Justify = "Center",
+    IconAlign = "Left",
+    Icon = "",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ringtaa/castletpfast.github.io/refs/heads/main/FASTCASTLE.lua"))()
     end,
