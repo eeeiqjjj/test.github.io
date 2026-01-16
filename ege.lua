@@ -11,7 +11,7 @@ task.spawn(function()
     WindUI:Notify({
         Title = "Discord Server",
         Content = "Please join the offical discord server for more scripts! If you're a content creator, make a video on this script and we will post it",
-        Duration = 20,
+        Duration = 9,
         Icon = "youtube"
     })
 end)
