@@ -1,692 +1,5558 @@
 {
   "amvCategories": {
     "amvPets": [
-      { "name": "Birthday Butterfly 2024", "value": 0.0055 },
-      { "name": "Birthday Butterfly 2023", "value": 0.0055 },
-      { "name": "Zombie Wolf", "value": 0.009 },
-      { "name": "Zombie Chick", "value": 0.0055 },
-      { "name": "Zombie Buffalo", "value": 0.03 },
-      { "name": "Zodiac Minion Chick", "value": 0.0065 },
-      { "name": "Zeopod", "value": 0.0055 },
-      { "name": "Zebra", "value": 0.0045 },
-      { "name": "Yule Log Dog", "value": 0.015 },
-      { "name": "Yeti", "value": 0.009 },
-      { "name": "Yellow-Lipped Sea Krait", "value": 0.004 },
-      { "name": "Yellow Butterfly", "value": 0.006 },
-      { "name": "Wyvern", "value": 0.006 },
-      { "name": "Wren", "value": 0.004 },
-      { "name": "Wooly Rhino", "value": 0.01 },
-      { "name": "Woolly Mammoth", "value": 0.006 },
-      { "name": "Wood Pigeon", "value": 0.0225 },
-      { "name": "Woodpecker", "value": 0.005 },
-      { "name": "Wolpertinger", "value": 0.0035 },
-      { "name": "Wolf", "value": 0.0065 },
-      { "name": "Winter Fawn", "value": 0.0055 },
-      { "name": "Winter Doe", "value": 0.006 },
-      { "name": "Winter Buck", "value": 0.0085 },
-      { "name": "Winged Tiger", "value": 0.055 },
-      { "name": "Winged Horse", "value": 0.0125 },
-      { "name": "Wildfire Hawk", "value": 0.0065 },
-      { "name": "Wild Boar", "value": 0.0115 },
-      { "name": "White Sand Dollar", "value": 0.013 },
-      { "name": "White Amazon", "value": 0.011 },
-      { "name": "Werewolf", "value": 0.0325 },
-      { "name": "Weevil", "value": 0.0045 },
-      { "name": "Water Rabbit", "value": 0.0085 },
-      { "name": "Water Opossum", "value": 0.004 },
-      { "name": "Water Moon Bear", "value": 0.0065 },
-      { "name": "Warthog", "value": 0.0045 },
-      { "name": "Walrus", "value": 0.0045 },
-      { "name": "Vulture", "value": 0.0065 },
-      { "name": "Volcanic Rhino", "value": 0.01 },
-      { "name": "Violet Butterfly", "value": 0.0115 },
-      { "name": "Villain Gibbon", "value": 0.0065 },
-      { "name": "Vermilion Butterfly", "value": 0.007 },
-      { "name": "Velociraptor", "value": 0.004 },
-      { "name": "Vanilla Penguin", "value": 0.014 },
-      { "name": "Vampire Dragon", "value": 0.035 },
-      { "name": "Urchin", "value": 0.0045 },
-      { "name": "Unicorn", "value": 0.02 },
-      { "name": "Undead Jousting Horse", "value": 0.07 },
-      { "name": "Undead Elk", "value": 0.006 },
-      { "name": "Turtle", "value": 0.128 },
-      { "name": "Turtle Doves", "value": 0.0045 },
-      { "name": "Turkey", "value": 0.018 },
-      { "name": "Tri-horned Treehopper", "value": 0.0275 },
-      { "name": "Triceratops", "value": 0.005 },
-      { "name": "T-Rex", "value": 0.011 },
-      { "name": "Tree Sasquatch", "value": 0.004 },
-      { "name": "Tree Kangaroo", "value": 0.018 },
-      { "name": "Tree Frog", "value": 0.0035 },
-      { "name": "Trapdoor Snail", "value": 0.0055 },
-      { "name": "Toy Poodle", "value": 0.0065 },
-      { "name": "Toy Monkey", "value": 0.011 },
-      { "name": "Toxic Kaijunior", "value": 0.005 },
-      { "name": "Toucan", "value": 0.0055 },
-      { "name": "Tortuga de la Isla", "value": 0.0325 },
-      { "name": "Toasty Red Panda", "value": 0.0075 },
-      { "name": "Tio De Nadal", "value": 0.0375 },
-      { "name": "Thorny Devil", "value": 0.0045 },
-      { "name": "Therapy Dog", "value": 0.0065 },
-      { "name": "Temple Friend", "value": 0.006 },
-      { "name": "Tegu", "value": 0.0035 },
-      { "name": "Tawny Frogmouth", "value": 0.0035 },
-      { "name": "Tasmanian Tiger", "value": 0.004 },
-      { "name": "Tasmanian Devil", "value": 0.007 },
-      { "name": "Tarsier", "value": 0.007 },
-      { "name": "Tarantula", "value": 0.0045 },
-      { "name": "Tanuki", "value": 0.0065 },
-      { "name": "Tan Chow-Chow", "value": 0.0065 },
-      { "name": "Swordfish", "value": 0.0045 },
-      { "name": "Sweetheart Rat", "value": 0.0065 },
-      { "name": "Swan", "value": 0.014 },
-      { "name": "Super Saru", "value": 0.009 },
-      { "name": "Sunrise Duckling", "value": 0.009 },
-      { "name": "Sunglider", "value": 0.0085 },
-      { "name": "Summer Walrus", "value": 0.0065 },
-      { "name": "Sugar Glider", "value": 0.074 },
-      { "name": "Sugar Axolotl", "value": 0.03 },
-      { "name": "Subzero Scorpion", "value": 0.0065 },
-      { "name": "Striped Eggy", "value": 0.008 },
-      { "name": "Strawberry Shortcake Bat Dragon", "value": 0.129 },
-      { "name": "Strawberry Penguin", "value": 0.0475 },
-      { "name": "Stingray", "value": 0.0035 },
-      { "name": "Steppe Lion", "value": 0.006 },
-      { "name": "Stegosaurus", "value": 0.005 },
-      { "name": "St Bernard", "value": 0.007 },
-      { "name": "Starmite", "value": 0.0055 },
-      { "name": "Starhopper", "value": 0.0055 },
-      { "name": "Starfish", "value": 0.0065 },
-      { "name": "Squid", "value": 0.01 },
-      { "name": "Sprout Snail", "value": 0.0065 },
-      { "name": "Spinosaurus", "value": 0.013 },
-      { "name": "Spider Crab", "value": 0.006 },
-      { "name": "Space Whale", "value": 0.008 },
-      { "name": "Snowy Mammoth", "value": 0.0065 },
-      { "name": "Snow Puma", "value": 0.0035 },
-      { "name": "Snow Owl", "value": 0.0095 },
-      { "name": "Snow Monkey", "value": 0.013 },
-      { "name": "Snowman", "value": 0.0055 },
-      { "name": "Snow Leopard", "value": 0.0055 },
-      { "name": "Snow Cat", "value": 0.003 },
-      { "name": "Snowball Pug", "value": 0.0065 },
-      { "name": "Snowball Pet", "value": 0.009 },
-      { "name": "Snorgle", "value": 0.004 },
-      { "name": "Sneak Weasel", "value": 0.003 },
-      { "name": "Slug", "value": 0.0045 },
-      { "name": "Sloth", "value": 0.0065 },
-      { "name": "Slimingo", "value": 0.0065 },
-      { "name": "Slime", "value": 0.019 },
-      { "name": "Skunk", "value": 0.006 },
-      { "name": "Skele-Rex", "value": 0.013 },
-      { "name": "Skelebat", "value": 0.006 },
-      { "name": "Singularity Pisces", "value": 0.006 },
-      { "name": "Singularity Beetle", "value": 0.006 },
-      { "name": "Silly Duck", "value": 0.015 },
-      { "name": "Siamese Cat", "value": 0.045 },
-      { "name": "Shrew", "value": 0.0325 },
-      { "name": "Show Pony", "value": 0.004 },
-      { "name": "Shiver Wolf", "value": 0.007 },
-      { "name": "Shih Tzu", "value": 0.0035 },
-      { "name": "Shiba Inu", "value": 0.0045 },
-      { "name": "Shetland Pony White", "value": 0.0065 },
-      { "name": "Shetland Pony Light Brown", "value": 0.0095 },
-      { "name": "Shetland Pony Dark Brown", "value": 0.0045 },
-      { "name": "Sheeeeep", "value": 0.04 },
-      { "name": "Shark", "value": 0.0115 },
-      { "name": "Shark Puppy", "value": 0.0425 },
-      { "name": "Shadow Dragon", "value": 1.95 },
-      { "name": "Sea Slug", "value": 0.035 },
-      { "name": "Sea Skeleton Panda", "value": 0.004 },
-      { "name": "Seahorse", "value": 0.0055 },
-      { "name": "Seagull", "value": 0.0065 },
-      { "name": "Seafoam Butterfly", "value": 0.006 },
-      { "name": "Seabed Creeper", "value": 0.0055 },
-      { "name": "Sea Angel", "value": 0.006 },
-      { "name": "Scorching Kaijunior", "value": 0.015 },
-      { "name": "Scarlet Butterfly", "value": 0.0065 },
-      { "name": "Scarecrow", "value": 0.0045 },
-      { "name": "Scarecrow Horse", "value": 0.005 },
-      { "name": "Scarecrow Crow", "value": 0.008 },
-      { "name": "Scarecrow Cat", "value": 0.0065 },
-      { "name": "Scarebear", "value": 0.009 },
-      { "name": "Sasquatch", "value": 0.0065 },
-      { "name": "Sandfish", "value": 0.0035 },
-      { "name": "Samoyed", "value": 0.004 },
-      { "name": "Salamander", "value": 0.006 },
-      { "name": "Sakura Spirit", "value": 0.035 },
-      { "name": "Sado Mole", "value": 0.0035 },
-      { "name": "Sabertooth", "value": 0.0065 },
-      { "name": "Royal Palace Spaniel", "value": 0.009 },
-      { "name": "Royal Mistletroll", "value": 0.035 },
-      { "name": "Royal Corgi", "value": 0.014 },
-      { "name": "Royal Capuchin Monkey", "value": 0.009 },
-      { "name": "Rosy Maple Moth", "value": 0.0075 },
-      { "name": "Rose Dragon", "value": 0.04 },
-      { "name": "Rooster", "value": 0.0065 },
-      { "name": "Rodeo Bull", "value": 0.0045 },
-      { "name": "Rock", "value": 0.005 },
-      { "name": "Rock Pigeon", "value": 0.005 },
-      { "name": "Robot", "value": 0.0045 },
-      { "name": "Robo Dog", "value": 0.009 },
-      { "name": "Robin", "value": 0.005 },
-      { "name": "Roadrunner", "value": 0.006 },
-      { "name": "Ring-Tailed Lemur", "value": 0.035 },
-      { "name": "Ringmaster Gibbon", "value": 0.006 },
-      { "name": "Rice Cake Rabbit", "value": 0.0065 },
-      { "name": "Ribbon Seal", "value": 0.0045 },
-      { "name": "Rhino", "value": 0.013 },
-      { "name": "Rhino Beetle", "value": 0.004 },
-      { "name": "Reindeer", "value": 0.0095 },
-      { "name": "Red Squirrel", "value": 0.0085 },
-      { "name": "Red Sand Dollar", "value": 0.013 },
-      { "name": "Red Panda", "value": 0.0045 },
-      { "name": "Red Fox", "value": 0.006 },
-      { "name": "Red Crowned Crane", "value": 0.0055 },
-      { "name": "Red Cardinal", "value": 0.0045 },
-      { "name": "Rat", "value": 0.0055 },
-      { "name": "Rattlesnake", "value": 0.004 },
-      { "name": "Ratatoskr", "value": 0.0035 },
-      { "name": "Ram", "value": 0.0175 },
-      { "name": "Rainbow Dragon", "value": 0.014 },
-      { "name": "Raccoon", "value": 0.0065 },
-      { "name": "Rabbit", "value": 0.0035 },
-      { "name": "Quokka", "value": 0.008 },
-      { "name": "Quetzalcoatl", "value": 0.0065 },
-      { "name": "Queen Bee", "value": 0.0175 },
-      { "name": "Purple Butterfly", "value": 0.0275 },
-      { "name": "Puptune", "value": 0.0065 },
-      { "name": "Punk Pony", "value": 0.006 },
-      { "name": "Pumpkin Friend", "value": 0.0065 },
-      { "name": "Puma", "value": 0.003 },
-      { "name": "Puffin", "value": 0.03 },
-      { "name": "Puffer Fish", "value": 0.01 },
-      { "name": "Pudding Cat", "value": 0.0065 },
-      { "name": "Pterodactyl", "value": 0.005 },
-      { "name": "Prism Snake", "value": 0.006 },
-      { "name": "Prismatic Butterfly", "value": 0.0105 },
-      { "name": "Princess Capuchin Monkey", "value": 0.009 },
-      { "name": "Primal Kaijunior", "value": 0.0075 },
-      { "name": "Priceless Shrimp", "value": 0.008 },
-      { "name": "Pretty Pony", "value": 0.009 },
-      { "name": "Preppy Capuchin Monkey", "value": 0.0065 },
-      { "name": "Praying Mantis", "value": 0.006 },
-      { "name": "Possum", "value": 0.005 },
-      { "name": "Poodle", "value": 0.0035 },
-      { "name": "Pomeranian", "value": 0.0065 },
-      { "name": "Polar Bear", "value": 0.03 },
-      { "name": "Poison Dart Frog", "value": 0.004 },
-      { "name": "Platypus", "value": 0.03 },
-      { "name": "Pirate Hermit Crab", "value": 0.013 },
-      { "name": "Pirate Ghost Capuchin Monkey", "value": 0.035 },
-      { "name": "Piranha", "value": 0.004 },
-      { "name": "Pink Cat", "value": 0.04 },
-      { "name": "Pink Betta Fish", "value": 0.0065 },
-      { "name": "Pine Marten", "value": 0.006 },
-      { "name": "Pineapple Owl", "value": 0.035 },
-      { "name": "Pig", "value": 0.0425 },
-      { "name": "Phoenix", "value": 0.0115 },
-      { "name": "Phantom Dragon", "value": 0.0225 },
-      { "name": "Persian Cat", "value": 0.005 },
-      { "name": "Peregrine Falcon", "value": 0.0065 },
-      { "name": "Peppermint Penguin", "value": 0.115 },
-      { "name": "Penguin", "value": 0.0065 },
-      { "name": "Pelican", "value": 0.17 },
-      { "name": "Peacock", "value": 0.01 },
-      { "name": "Peach Owl", "value": 0.0175 },
-      { "name": "Patchy Bear", "value": 0.0035 },
-      { "name": "Partridge", "value": 0.007 },
-      { "name": "Parrot", "value": 0.66 },
-      { "name": "Parakeet", "value": 0.0035 },
-      { "name": "Papa Moose", "value": 0.04 },
-      { "name": "Panda", "value": 0.0095 },
-      { "name": "Ox", "value": 0.0035 },
-      { "name": "Owl", "value": 0.835 },
-      { "name": "Owlbear", "value": 0.0475 },
-      { "name": "Otter", "value": 0.003 },
-      { "name": "Ostrich", "value": 0.0065 },
-      { "name": "Oryx", "value": 0.004 },
-      { "name": "Ornate Horned Frog", "value": 0.006 },
-      { "name": "Orchid Butterfly", "value": 0.235 },
-      { "name": "Orca", "value": 0.0065 },
-      { "name": "Orangutan", "value": 0.0035 },
-      { "name": "Orange Butterfly", "value": 0.0105 },
-      { "name": "Orange Betta Fish", "value": 0.005 },
-      { "name": "Onza", "value": 0.0045 },
-      { "name": "Old King Coal", "value": 0.005 },
-      { "name": "Officer Gibbon", "value": 0.006 },
-      { "name": "Octopus", "value": 0.011 },
-      { "name": "Ocelot", "value": 0.0045 },
-      { "name": "Nutcracker Squirrel", "value": 0.006 },
-      { "name": "Ninja Monkey", "value": 0.014 },
-      { "name": "Nightmare Owl", "value": 0.007 },
-      { "name": "Nessie", "value": 0.0325 },
-      { "name": "Nebula Snake", "value": 0.006 },
-      { "name": "Nautilus", "value": 0.009 },
-      { "name": "Naughty Mistletroll", "value": 0.0125 },
-      { "name": "Narwhal", "value": 0.006 },
-      { "name": "Naga Dragon", "value": 0.0095 },
-      { "name": "Muskrat", "value": 0.0035 },
-      { "name": "Musk Ox", "value": 0.008 },
-      { "name": "Mushroom Friend", "value": 0.009 },
-      { "name": "Munchkin Cat", "value": 0.0205 },
-      { "name": "Mule", "value": 0.018 },
-      { "name": "Mr. Whiskerpips", "value": 0.007 },
-      { "name": "Mrs. Whiskerpips", "value": 0.005 },
-      { "name": "Mouse", "value": 0.003 },
-      { "name": "Mosquito", "value": 0.0035 },
-      { "name": "Moose Calf", "value": 0.035 },
-      { "name": "Moon Rabbit", "value": 0.008 },
-      { "name": "Moonpine", "value": 0.005 },
-      { "name": "Moonlight Moth", "value": 0.0065 },
-      { "name": "Moonbeam Butterfly", "value": 0.0105 },
-      { "name": "Monkey", "value": 0.005 },
-      { "name": "Monkey King", "value": 0.125 },
-      { "name": "Mongoose", "value": 0.0055 },
-      { "name": "Momma Moose", "value": 0.0065 },
-      { "name": "Mole", "value": 0.004 },
-      { "name": "Mistletroll", "value": 0.0055 },
-      { "name": "Mirai Moth", "value": 0.0065 },
-      { "name": "Mini Schnauzer", "value": 0.01 },
-      { "name": "Mini Pig", "value": 0.135 },
-      { "name": "Midnight Dragon", "value": 0.025 },
-      { "name": "Metal Ox", "value": 0.0065 },
-      { "name": "Merry Mistletroll", "value": 0.007 },
-      { "name": "Mermicorn", "value": 0.0825 },
-      { "name": "Merhorse", "value": 0.0055 },
-      { "name": "Meerkat", "value": 0.04 },
-      { "name": "Mecha R4BBIT", "value": 0.0055 },
-      { "name": "Mechapup", "value": 0.03 },
-      { "name": "Mecha Meow", "value": 0.009 },
-      { "name": "Marabou Stork", "value": 0.0045 },
-      { "name": "Many Mackerel", "value": 0.04 },
-      { "name": "Manta Ray", "value": 0.006 },
-      { "name": "Maneki-Neko", "value": 0.01 },
-      { "name": "Maleo Bird", "value": 0.004 },
-      { "name": "Malaysian Tapir", "value": 0.0055 },
-      { "name": "Majestic Pony", "value": 0.02 },
-      { "name": "Maine Coon", "value": 0.005 },
-      { "name": "Mahi Mahi", "value": 0.0035 },
-      { "name": "Magpie", "value": 0.003 },
-      { "name": "Magma Snail", "value": 0.006 },
-      { "name": "Magma Moose", "value": 0.0065 },
-      { "name": "Lynx", "value": 0.01 },
-      { "name": "Lunar White Tiger", "value": 0.0055 },
-      { "name": "Lunar Tiger", "value": 0.004 },
-      { "name": "Lunar Ox", "value": 0.0045 },
-      { "name": "Lunar Moon Bear", "value": 0.0085 },
-      { "name": "Lunar Gold Tiger", "value": 0.0065 },
-      { "name": "Love Bird", "value": 0.0065 },
-      { "name": "Longhorn Cow", "value": 0.0065 },
-      { "name": "Lobster", "value": 0.006 },
-      { "name": "Llama", "value": 0.02 },
-      { "name": "Lion", "value": 0.074 },
-      { "name": "Lionfish", "value": 0.0055 },
-      { "name": "Lion Cub", "value": 0.045 },
-      { "name": "Liger", "value": 0.005 },
-      { "name": "Leviathan", "value": 0.016 },
-      { "name": "Leopard Shark", "value": 0.015 },
-      { "name": "Leopard Cat", "value": 0.008 },
-      { "name": "Lavender Dragon", "value": 0.02 },
-      { "name": "Lava Wolf", "value": 0.0125 },
-      { "name": "Lava Dragon", "value": 0.0275 },
-      { "name": "Lammergeier", "value": 0.005 },
-      { "name": "Lamb", "value": 0.02 },
-      { "name": "Ladybug", "value": 0.0065 },
-      { "name": "Kraken", "value": 0.0075 },
-      { "name": "Kookaburra", "value": 0.02 },
-      { "name": "Komodo Dragon", "value": 0.006 },
-      { "name": "Koi Carp", "value": 0.0065 },
-      { "name": "Koala", "value": 0.007 },
-      { "name": "Kiwi", "value": 0.009 },
-      { "name": "Kitty Bat", "value": 0.007 },
-      { "name": "Kitsune", "value": 0.01 },
-      { "name": "Kirin", "value": 0.005 },
-      { "name": "King Penguin", "value": 0.0065 },
-      { "name": "King Bee", "value": 0.009 },
-      { "name": "Kid Goat", "value": 0.004 },
-      { "name": "Kelp Raider", "value": 0.0055 },
-      { "name": "Kelp Hunter", "value": 0.006 },
-      { "name": "Kelp Crewmate", "value": 0.0045 },
-      { "name": "Kelp Captain", "value": 0.01 },
-      { "name": "Karate Gorilla", "value": 0.009 },
-      { "name": "Kappakid", "value": 0.0055 },
-      { "name": "Kangaroo", "value": 0.095 },
-      { "name": "Kaijunior", "value": 0.0045 },
-      { "name": "Kage Crow", "value": 0.0065 },
-      { "name": "Jumping Spider", "value": 0.004 },
-      { "name": "Jousting Horse", "value": 0.015 },
-      { "name": "Jellyfish", "value": 0.0425 },
-      { "name": "Jekyll Hydra", "value": 0.06 },
-      { "name": "Japanese Snow Fairy", "value": 0.003 },
-      { "name": "Island Tarsier", "value": 0.004 },
-      { "name": "Irish Water Spaniel", "value": 0.05 },
-      { "name": "Irish Elk", "value": 0.008 },
-      { "name": "Inmate Capuchin Monkey", "value": 0.0065 },
-      { "name": "Influencer Gibbon", "value": 0.0095 },
-      { "name": "Indian Leopard", "value": 0.0055 },
-      { "name": "Indian Flying Fox", "value": 0.0065 },
-      { "name": "Icy Porcupine", "value": 0.0065 },
-      { "name": "Ice Wolf", "value": 0.015 },
-      { "name": "Ice Moth Dragon", "value": 0.0085 },
-      { "name": "Ice Golem", "value": 0.0175 },
-      { "name": "Ice Cube", "value": 0.0045 },
-      { "name": "Ice Cream Hermit Crab", "value": 0.0225 },
-      { "name": "Ibis", "value": 0.005 },
-      { "name": "Ibex", "value": 0.005 },
-      { "name": "Hyena", "value": 0.03 },
-      { "name": "Hydra", "value": 0.006 },
-      { "name": "Husky", "value": 0.016 },
-      { "name": "Hummingbird", "value": 0.0065 },
-      { "name": "Humbug", "value": 0.0035 },
-      { "name": "Hot Doggo", "value": 0.11 },
-      { "name": "Horse", "value": 0.009 },
-      { "name": "Hopbop", "value": 0.0035 },
-      { "name": "Honey Badger", "value": 0.0275 },
-      { "name": "Hippo", "value": 0.007 },
-      { "name": "Hippogriff", "value": 0.0115 },
-      { "name": "Highland Cow", "value": 0.0085 },
-      { "name": "Hero Gibbon", "value": 0.015 },
-      { "name": "Hermit Crab", "value": 0.004 },
-      { "name": "Hedgehog", "value": 0.3 },
-      { "name": "Headless Horse", "value": 0.0065 },
-      { "name": "Hawk", "value": 0.0095 },
-      { "name": "Harp Seal", "value": 0.0105 },
-      { "name": "Hare", "value": 0.035 },
-      { "name": "Happy Duckling", "value": 0.009 },
-      { "name": "Happy Clam", "value": 0.0225 },
-      { "name": "Hamster", "value": 0.0075 },
-      { "name": "Hammerhead Shark", "value": 0.005 },
-      { "name": "Halloween White Skeleton Dog", "value": 0.0065 },
-      { "name": "Halloween White Mummy Cat", "value": 0.0055 },
-      { "name": "Halloween White Ghost Dragon", "value": 0.0275 },
-      { "name": "Halloween Golden Mummy Cat", "value": 0.0085 },
-      { "name": "Halloween Evil Dachshund", "value": 0.0065 },
-      { "name": "Halloween Blue Scorpion", "value": 0.0045 },
-      { "name": "Halloween Black Mummy Cat", "value": 0.0045 },
-      { "name": "Haetae", "value": 0.165 },
-      { "name": "Guardian Lion", "value": 0.0095 },
-      { "name": "Ground Sloth", "value": 0.004 },
-      { "name": "Groundhog", "value": 0.03 },
-      { "name": "Grinmoire", "value": 0.0045 },
-      { "name": "Grim Dragon", "value": 0.0325 },
-      { "name": "Griffin", "value": 0.009 },
-      { "name": "Green-Chested Pheasant", "value": 0.009 },
-      { "name": "Green Butterfly", "value": 0.016 },
-      { "name": "Green Amazon", "value": 0.008 },
-      { "name": "Great Pyrenees", "value": 0.009 },
-      { "name": "Grave Owl", "value": 0.006 },
-      { "name": "Gorilla", "value": 0.0045 },
-      { "name": "Goose", "value": 0.085 },
-      { "name": "Gold Mahi Mahi", "value": 0.0045 },
-      { "name": "Goldhorn", "value": 0.0115 },
-      { "name": "Goldfish", "value": 0.0065 },
-      { "name": "Golden Walrus", "value": 0.0125 },
-      { "name": "Golden Unicorn", "value": 0.009 },
-      { "name": "Golden Tortoise Beetle", "value": 0.0075 },
-      { "name": "Golden Rat", "value": 0.013 },
-      { "name": "Golden Penguin", "value": 0.018 },
-      { "name": "Golden Ladybug", "value": 0.01 },
-      { "name": "Golden King Penguin", "value": 0.0095 },
-      { "name": "Golden Jaguar", "value": 0.0065 },
-      { "name": "Golden Hummingbird", "value": 0.009 },
-      { "name": "Golden Hamster", "value": 0.0105 },
-      { "name": "Golden Griffin", "value": 0.0085 },
-      { "name": "Golden Dragon", "value": 0.009 },
-      { "name": "Golden Chow-Chow", "value": 0.021 },
-      { "name": "Golden Albatross", "value": 0.009 },
-      { "name": "Goat", "value": 0.055 },
-      { "name": "Glyptodon", "value": 0.0065 },
-      { "name": "Glormy Leo", "value": 0.02 },
-      { "name": "Glormy Hound", "value": 0.015 },
-      { "name": "Glormy Dolphin", "value": 0.0075 },
-      { "name": "Glacier Moth", "value": 0.0225 },
-      { "name": "Glacier Kitsune", "value": 0.0225 },
-      { "name": "Giraffe", "value": 1.305 },
-      { "name": "Ginger Cat", "value": 0.006 },
-      { "name": "Gingerbread Reindeer", "value": 0.0065 },
-      { "name": "Gingerbread Mouse", "value": 0.0055 },
-      { "name": "Gingerbread Hare", "value": 0.006 },
-      { "name": "Gilded Snake", "value": 0.009 },
-      { "name": "Gila Monster", "value": 0.004 },
-      { "name": "Gibbon", "value": 0.004 },
-      { "name": "Giant Panda", "value": 0.18 },
-      { "name": "Giant Gold Scarab", "value": 0.0225 },
-      { "name": "Giant Blue Scarab", "value": 0.009 },
-      { "name": "Giant Black Scarab", "value": 0.0075 },
-      { "name": "Giant Anteater", "value": 0.0275 },
-      { "name": "Ghost Wolf", "value": 0.0045 },
-      { "name": "Ghost", "value": 0.005 },
-      { "name": "Ghostly Cat", "value": 0.006 },
-      { "name": "Ghost Dog", "value": 0.009 },
-      { "name": "Ghost Chick", "value": 0.006 },
-      { "name": "Ghost Bunny", "value": 0.009 },
-      { "name": "German Shepherd", "value": 0.015 },
-      { "name": "Gecko", "value": 0.008 },
-      { "name": "Gargoyle", "value": 0.009 },
-      { "name": "Garden Snake", "value": 0.0035 },
-      { "name": "Gaelic Fae", "value": 0.013 },
-      { "name": "Frozen Penguin", "value": 0.006 },
-      { "name": "Frost Unicorn", "value": 0.055 },
-      { "name": "Frost Phoenix", "value": 0.02 },
-      { "name": "Frost Fury", "value": 0.035 },
-      { "name": "Frost Dragon", "value": 1 },
-      { "name": "Frostclaw", "value": 0.0075 },
-      { "name": "Frostbite Cub", "value": 0.009 },
-      { "name": "Frostbite Bear", "value": 0.0375 },
-      { "name": "Frog", "value": 0.007 },
-      { "name": "Frogspawn", "value": 0.0045 },
-      { "name": "French Bulldog", "value": 0.01 },
-      { "name": "Frankenfeline", "value": 0.0035 },
-      { "name": "Fossa", "value": 0.0045 },
-      { "name": "Flying Fish", "value": 0.0035 },
-      { "name": "Flower Power Duckling", "value": 0.008 },
-      { "name": "Floral Eggy", "value": 0.0055 },
-      { "name": "Fleur De Ice", "value": 0.0085 },
-      { "name": "Flaming Zebra", "value": 0.0075 },
-      { "name": "Flamingo", "value": 0.1025 },
-      { "name": "Flaming Fox", "value": 0.0225 },
-      { "name": "Firefly", "value": 0.0125 },
-      { "name": "Firefighter Gibbon", "value": 0.006 },
-      { "name": "Field Mouse", "value": 0.0475 },
-      { "name": "Fennec Fox", "value": 0.003 },
-      { "name": "Feesh", "value": 0.0065 },
-      { "name": "Fanghorn Tortoise", "value": 0.0065 },
-      { "name": "Fallow Deer", "value": 0.035 },
-      { "name": "Fairy Bat Dragon", "value": 0.0625 },
-      { "name": "Evil Unicorn", "value": 0.4425 },
-      { "name": "Evil Rock", "value": 0.009 },
-      { "name": "Evil Chick", "value": 0.008 },
-      { "name": "Evil Chickatrice", "value": 0.0065 },
-      { "name": "Evil Basilisk", "value": 0.0065 },
-      { "name": "Ermine", "value": 0.005 },
-      { "name": "English Sheepdog", "value": 0.0095 },
-      { "name": "Emu", "value": 0.006 },
-      { "name": "Emperor Shrimp", "value": 0.0055 },
-      { "name": "Emperor Gorilla", "value": 0.025 },
-      { "name": "Emberlight", "value": 0.0175 },
-      { "name": "Elephant", "value": 0.088 },
-      { "name": "Elasmosaurus", "value": 0.0065 },
-      { "name": "Ehecatl", "value": 0.0045 },
-      { "name": "Eggnog Hare", "value": 0.0055 },
-      { "name": "Eggnog Dog", "value": 0.0065 },
-      { "name": "Eel", "value": 0.005 },
-      { "name": "Dugong", "value": 0.005 },
-      { "name": "Drake", "value": 0.0095 },
-      { "name": "Dragon", "value": 0.007 },
-      { "name": "Dragonfruit Fox", "value": 0.0425 },
-      { "name": "Dragonfly", "value": 0.0065 },
-      { "name": "Dracula Parrot", "value": 0.0065 },
-      { "name": "Dracula Fish", "value": 0.0045 },
-      { "name": "Dotted Eggy", "value": 0.0045 },
-      { "name": "Donkey", "value": 0.003 },
-      { "name": "Dolphin", "value": 0.006 },
-      { "name": "Dog", "value": 0.003 },
-      { "name": "Dodo", "value": 0.0125 },
-      { "name": "DJ Snooze", "value": 0.0055 },
-      { "name": "Dire Stag", "value": 0.0085 },
-      { "name": "Dingo", "value": 0.0045 },
-      { "name": "Dimorphodon", "value": 0.009 },
-      { "name": "Dimension Drifter", "value": 0.0075 },
-      { "name": "Dilophosaurus", "value": 0.0055 },
-      { "name": "Diamond Unicorn", "value": 0.0115 },
-      { "name": "Diamond Mahi Mahi", "value": 0.0065 },
-      { "name": "Diamond Ladybug", "value": 0.0215 },
-      { "name": "Diamond King Penguin", "value": 0.018 },
-      { "name": "Diamond Hummingbird", "value": 0.015 },
-      { "name": "Diamond Hamster", "value": 0.0215 },
-      { "name": "Diamond Griffin", "value": 0.009 },
-      { "name": "Diamond Dragon", "value": 0.0095 },
-      { "name": "Diamond Butterfly", "value": 0.275 },
-      { "name": "Diamond Amazon", "value": 0.03 },
-      { "name": "Diamond Albatross", "value": 0.0225 },
-      { "name": "Deinonychus", "value": 0.0065 },
-      { "name": "Deathstalker Scorpion", "value": 0.006 },
-      { "name": "Dango Penguins", "value": 0.04 },
-      { "name": "Dancing Dragon", "value": 0.023 },
-      { "name": "Dalmatian", "value": 0.245 },
-      { "name": "Cute-A-Cabra", "value": 0.0055 },
-      { "name": "Cupid Dragon", "value": 0.0575 },
-      { "name": "Cuddly Candle", "value": 0.01 },
-      { "name": "Cryptid", "value": 0.22 },
-      { "name": "Crow", "value": 0.555 },
-      { "name": "Crocodile", "value": 0.075 },
-      { "name": "Criosphinx", "value": 0.009 },
-      { "name": "Crab", "value": 0.0045 },
-      { "name": "Cozy Mistletroll", "value": 0.0055 },
-      { "name": "Coyote", "value": 0.0055 },
-      { "name": "Cow", "value": 0.1475 },
-      { "name": "Cow Calf", "value": 0.007 },
-      { "name": "Corn Doggo", "value": 0.014 },
-      { "name": "Corgi", "value": 0.005 },
-      { "name": "Cold Cube", "value": 0.005 },
-      { "name": "Coconut Friend", "value": 0.008 },
-      { "name": "Cockroach", "value": 0.004 },
-      { "name": "Cobra", "value": 0.009 },
-      { "name": "Clownfish", "value": 0.0065 },
-      { "name": "Clover Cow", "value": 0.006 },
-      { "name": "Clementine Owl", "value": 0.0065 },
-      { "name": "Classic Teapot", "value": 0.0055 },
-      { "name": "Christmas Spirit", "value": 0.0065 },
-      { "name": "Christmas Pudding Pup", "value": 0.023 },
-      { "name": "Choco Penguin", "value": 0.0065 },
-      { "name": "Chocolate Labrador", "value": 0.003 },
-      { "name": "Chocolate Chow-Chow", "value": 0.009 },
-      { "name": "Chocolate Chip Bat Dragon", "value": 0.11 },
-      { "name": "Chipmunk", "value": 0.007 },
-      { "name": "Chimera", "value": 0.0095 },
-      { "name": "Chilling Spider", "value": 0.006 },
-      { "name": "Chick", "value": 0.0065 },
-      { "name": "Chicken", "value": 0.013 },
-      { "name": "Chickatrice", "value": 0.0045 },
-      { "name": "Cherub Chipmunk", "value": 0.0035 },
-      { "name": "Chef Gorilla", "value": 0.013 },
-      { "name": "Cheetah", "value": 0.017 },
-      { "name": "Chanekeh", "value": 0.004 },
-      { "name": "Chameleon", "value": 0.009 },
-      { "name": "Cerberus", "value": 0.011 },
-      { "name": "Cat", "value": 0.003 },
-      { "name": "Caterpillar", "value": 0.09 },
-      { "name": "Castle Hermit Crab", "value": 0.0075 },
-      { "name": "Cassowary", "value": 0.006 },
-      { "name": "Capybara", "value": 0.013 },
-      { "name": "Capuchin Monkey", "value": 0.0045 },
-      { "name": "Capricorn", "value": 0.013 },
-      { "name": "Candy Hare", "value": 0.018 },
-      { "name": "Candyfloss Chick", "value": 0.085 },
-      { "name": "Candy Cane Snail", "value": 0.0065 },
-      { "name": "Canadian Goose", "value": 0.006 },
-      { "name": "Camel", "value": 0.003 },
-      { "name": "Caelum Cervi", "value": 0.0325 },
-      { "name": "Cactus Friend", "value": 0.0115 },
-      { "name": "Cabbit", "value": 0.0875 },
-      { "name": "Business Monkey", "value": 0.0095 },
-      { "name": "Bush Elephant", "value": 0.0475 },
-      { "name": "Burning Bunny", "value": 0.007 },
-      { "name": "Bunny", "value": 0.0035 },
-      { "name": "Bunny Swirl", "value": 0.0085 },
-      { "name": "Bullfrog", "value": 0.0035 },
-      { "name": "Buffalo", "value": 0.003 },
-      { "name": "Brown Springer Spaniel", "value": 0.01 },
-      { "name": "Brown-Chested Pheasant", "value": 0.0065 },
-      { "name": "Brown Bear", "value": 0.03 },
-      { "name": "Brachiosaurus", "value": 0.004 },
-      { "name": "Borhyaena Gigantica", "value": 0.004 },
-      { "name": "Border Collie", "value": 0.0675 },
-      { "name": "Blue Ringed Octopus", "value": 0.0085 },
-      { "name": "Blue Jay", "value": 0.005 },
-      { "name": "Blue Dog", "value": 0.073 },
-      { "name": "Blue Butterfly", "value": 0.0035 },
-      { "name": "Bluebottle Fly", "value": 0.0035 },
-      { "name": "Blue Betta Fish", "value": 0.009 },
-      { "name": "Blossom Snake", "value": 0.0065 },
-      { "name": "Bloodhound", "value": 0.0055 },
-      { "name": "Blazing Lion", "value": 0.28 },
-      { "name": "Black Widow", "value": 0.009 },
-      { "name": "Black Springer Spaniel", "value": 0.0095 },
-      { "name": "Black Panther", "value": 0.0105 },
-      { "name": "Black Moon Bear", "value": 0.0045 },
-      { "name": "Black Marlin", "value": 0.005 },
-      { "name": "Black Macaque", "value": 0.0065 },
-      { "name": "Black Kite", "value": 0.006 },
-      { "name": "Black Dog", "value": 0.005 },
-      { "name": "Black Chow-Chow", "value": 0.009 },
-      { "name": "Black-Chested Pheasant", "value": 0.04 },
-      { "name": "Bird of Paradise", "value": 0.0055 },
-      { "name": "Binturong", "value": 0.009 },
-      { "name": "Billy Goat", "value": 0.009 },
-      { "name": "Berry Cool Cube", "value": 0.009 },
-      { "name": "Beluga Whale", "value": 0.0035 },
-      { "name": "Bee", "value": 0.006 },
-      { "name": "Beaver", "value": 0.003 },
-      { "name": "Bauble Buddies", "value": 0.0065 },
-      { "name": "Bat", "value": 0.0045 },
-      { "name": "Bat Dragon", "value": 2.91 },
-      { "name": "Basilisk", "value": 0.006 },
-      { "name": "Bandicoot", "value": 0.004 },
-      { "name": "Banded Palm Civet", "value": 0.004 },
-      { "name": "Balloon Unicorn", "value": 0.355 },
-      { "name": "Bali Starling", "value": 0.0035 },
-      { "name": "Bald Eagle", "value": 0.0275 },
-      { "name": "Baku", "value": 0.009 },
-      { "name": "Bakeneko", "value": 0.0035 },
-      { "name": "Badger", "value": 0.0045 },
-      { "name": "Aye Aye", "value": 0.003 },
-      { "name": "Axolotl", "value": 0.013 },
-      { "name": "Australian Kelpie", "value": 0.006 },
-      { "name": "Aurora Fox", "value": 0.0225 },
-      { "name": "Astronaut Gorilla", "value": 0.014 },
-      { "name": "Ash Zebra", "value": 0.007 },
-      { "name": "Armadillo", "value": 0.0035 },
-      { "name": "Arctic Tern", "value": 0.0045 },
-      { "name": "Arctic Reindeer", "value": 0.215 },
-      { "name": "Arctic Hare", "value": 0.005 },
-      { "name": "Arctic Fox", "value": 0.04 },
-      { "name": "Arctic Dusk Dragon", "value": 0.0275 },
-      { "name": "Apple Owl", "value": 0.0175 },
-      { "name": "Ant", "value": 0.003 },
-      { "name": "Ankylosaurus", "value": 0.005 },
-      { "name": "Angus Cow", "value": 0.0035 },
-      { "name": "Angus Calf", "value": 0.0045 },
-      { "name": "Angus Bull", "value": 0.0065 },
-      { "name": "Angler Fish", "value": 0.0035 },
-      { "name": "Angelfish", "value": 0.0035 },
-      { "name": "Ancient Dragon", "value": 0.007 },
-      { "name": "Amber Butterfly", "value": 0.0045 },
-      { "name": "Amami Rabbit", "value": 0.007 },
-      { "name": "Alpaca", "value": 0.0475 },
-      { "name": "Alley Cat", "value": 0.0325 },
-      { "name": "Alicorn", "value": 0.007 },
-      { "name": "Albino Monkey", "value": 0.0925 },
-      { "name": "Albino Gorilla", "value": 0.017 },
-      { "name": "Albino Bat", "value": 0.0065 },
-      { "name": "Albatross", "value": 0.0065 },
-      { "name": "African Wild Dog", "value": 0.365 },
-      { "name": "Abyssinian Cat", "value": 0.004 },
-      { "name": "2D Kitty", "value": 0.0275 },
-      { "name": "2025 Birthday Butterfly", "value": 0.0045 },
-      { "name": "2022 Uplift Butterfly", "value": 0.0055 },
-      { "name": "2021 Uplift Butterfly", "value": 0.006 }
+      {
+        "name": "Birthday Butterfly 2024",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Birthday Butterfly 2023",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Zombie Wolf",
+        "value": 0.009,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Zombie Chick",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Zombie Buffalo",
+        "value": 0.03,
+        "megaValue": 0.473,
+        "neonValue": 0,
+        "flyValue": 0.027,
+        "rideValue": 0.026
+      },
+      {
+        "name": "Zodiac Minion Chick",
+        "value": 0.0065,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Zeopod",
+        "value": 0.0055,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Zebra",
+        "value": 0.0045,
+        "megaValue": 0.0225,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Yule Log Dog",
+        "value": 0.015,
+        "megaValue": 0.233,
+        "neonValue": 0,
+        "flyValue": 0.0131,
+        "rideValue": 0.0129
+      },
+      {
+        "name": "Yeti",
+        "value": 0.009,
+        "megaValue": 0.12,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Yellow-Lipped Sea Krait",
+        "value": 0.004,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Yellow Butterfly",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Wyvern",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Wren",
+        "value": 0.004,
+        "megaValue": 0.0156,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.002
+      },
+      {
+        "name": "Wooly Rhino",
+        "value": 0.01,
+        "megaValue": 0.1504,
+        "neonValue": 0,
+        "flyValue": 0.008,
+        "rideValue": 0.0075
+      },
+      {
+        "name": "Woolly Mammoth",
+        "value": 0.006,
+        "megaValue": 0.042,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Wood Pigeon",
+        "value": 0.0225,
+        "megaValue": 0.349,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Woodpecker",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Wolpertinger",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Wolf",
+        "value": 0.0065,
+        "megaValue": 0.0611,
+        "neonValue": 0,
+        "flyValue": 0.0052,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Winter Fawn",
+        "value": 0.0055,
+        "megaValue": 0.0344,
+        "neonValue": 0,
+        "flyValue": 0.004,
+        "rideValue": 0.0037
+      },
+      {
+        "name": "Winter Doe",
+        "value": 0.006,
+        "megaValue": 0.0445,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Winter Buck",
+        "value": 0.0085,
+        "megaValue": 0.094,
+        "neonValue": 0,
+        "flyValue": 0.0068,
+        "rideValue": 0.0064
+      },
+      {
+        "name": "Winged Tiger",
+        "value": 0.055,
+        "megaValue": 0.95,
+        "neonValue": 0,
+        "flyValue": 0.051,
+        "rideValue": 0.05
+      },
+      {
+        "name": "Winged Horse",
+        "value": 0.0125,
+        "megaValue": 0.173,
+        "neonValue": 0,
+        "flyValue": 0.0093,
+        "rideValue": 0.0091
+      },
+      {
+        "name": "Wildfire Hawk",
+        "value": 0.0065,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Wild Boar",
+        "value": 0.0115,
+        "megaValue": 0.2,
+        "neonValue": 0,
+        "flyValue": 0.0106,
+        "rideValue": 0.0103
+      },
+      {
+        "name": "White Sand Dollar",
+        "value": 0.013,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "White Amazon",
+        "value": 0.011,
+        "megaValue": 0.154,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Werewolf",
+        "value": 0.0325,
+        "megaValue": 0.563,
+        "neonValue": 0,
+        "flyValue": 0.028,
+        "rideValue": 0.028
+      },
+      {
+        "name": "Weevil",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Water Rabbit",
+        "value": 0.0085,
+        "megaValue": 0.1001,
+        "neonValue": 0,
+        "flyValue": 0.0066,
+        "rideValue": 0.0062
+      },
+      {
+        "name": "Water Opossum",
+        "value": 0.004,
+        "megaValue": 0.0095,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Water Moon Bear",
+        "value": 0.0065,
+        "megaValue": 0.0495,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Warthog",
+        "value": 0.0045,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Walrus",
+        "value": 0.0045,
+        "megaValue": 0.0258,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Vulture",
+        "value": 0.0065,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Volcanic Rhino",
+        "value": 0.01,
+        "megaValue": 0.154,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Violet Butterfly",
+        "value": 0.0115,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Villain Gibbon",
+        "value": 0.0065,
+        "megaValue": 0.0705,
+        "neonValue": 0,
+        "flyValue": 0.0052,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Vermilion Butterfly",
+        "value": 0.007,
+        "megaValue": 0.0752,
+        "neonValue": 0,
+        "flyValue": 0.0056,
+        "rideValue": 0.0053
+      },
+      {
+        "name": "Velociraptor",
+        "value": 0.004,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Vanilla Penguin",
+        "value": 0.014,
+        "megaValue": 0.221,
+        "neonValue": 0,
+        "flyValue": 0.0119,
+        "rideValue": 0.0115
+      },
+      {
+        "name": "Vampire Dragon",
+        "value": 0.035,
+        "megaValue": 0.604,
+        "neonValue": 0,
+        "flyValue": 0.032,
+        "rideValue": 0.032
+      },
+      {
+        "name": "Urchin",
+        "value": 0.0045,
+        "megaValue": 0.0225,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Unicorn",
+        "value": 0.02,
+        "megaValue": 0.197,
+        "neonValue": 0,
+        "flyValue": 0.017,
+        "rideValue": 0.017
+      },
+      {
+        "name": "Undead Jousting Horse",
+        "value": 0.07,
+        "megaValue": 1.076,
+        "neonValue": 0,
+        "flyValue": 0.066,
+        "rideValue": 0.064
+      },
+      {
+        "name": "Undead Elk",
+        "value": 0.006,
+        "megaValue": 0.0378,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Turtle",
+        "value": 0.128,
+        "megaValue": 1.125,
+        "neonValue": 0,
+        "flyValue": 0.12,
+        "rideValue": 0.1175
+      },
+      {
+        "name": "Turtle Doves",
+        "value": 0.0045,
+        "megaValue": 0.0142,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0022
+      },
+      {
+        "name": "Turkey",
+        "value": 0.018,
+        "megaValue": 0.315,
+        "neonValue": 0,
+        "flyValue": 0.017,
+        "rideValue": 0.016
+      },
+      {
+        "name": "Tri-horned Treehopper",
+        "value": 0.0275,
+        "megaValue": 0.388,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Triceratops",
+        "value": 0.005,
+        "megaValue": 0.0294,
+        "neonValue": 0,
+        "flyValue": 0.0035,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "T-Rex",
+        "value": 0.011,
+        "megaValue": 0.168,
+        "neonValue": 0,
+        "flyValue": 0.0089,
+        "rideValue": 0.0087
+      },
+      {
+        "name": "Tree Sasquatch",
+        "value": 0.004,
+        "megaValue": 0.0119,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.002
+      },
+      {
+        "name": "Tree Kangaroo",
+        "value": 0.018,
+        "megaValue": 0.288,
+        "neonValue": 0,
+        "flyValue": 0.015,
+        "rideValue": 0.015
+      },
+      {
+        "name": "Tree Frog",
+        "value": 0.0035,
+        "megaValue": 0.0071,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Trapdoor Snail",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Toy Poodle",
+        "value": 0.0065,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Toy Monkey",
+        "value": 0.011,
+        "megaValue": 0.173,
+        "neonValue": 0,
+        "flyValue": 0.0093,
+        "rideValue": 0.0091
+      },
+      {
+        "name": "Toxic Kaijunior",
+        "value": 0.005,
+        "megaValue": 0.0301,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0034
+      },
+      {
+        "name": "Toucan",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Tortuga de la Isla",
+        "value": 0.0325,
+        "megaValue": 0.558,
+        "neonValue": 0,
+        "flyValue": 0.028,
+        "rideValue": 0.028
+      },
+      {
+        "name": "Toasty Red Panda",
+        "value": 0.0075,
+        "megaValue": 0.0864,
+        "neonValue": 0,
+        "flyValue": 0.0058,
+        "rideValue": 0.0054
+      },
+      {
+        "name": "Tio De Nadal",
+        "value": 0.0375,
+        "megaValue": 0.65,
+        "neonValue": 0,
+        "flyValue": 0.037,
+        "rideValue": 0.036
+      },
+      {
+        "name": "Thorny Devil",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Therapy Dog",
+        "value": 0.0065,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Temple Friend",
+        "value": 0.006,
+        "megaValue": 0.0294,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Tegu",
+        "value": 0.0035,
+        "megaValue": 0.0059,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Tawny Frogmouth",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Tasmanian Tiger",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Tasmanian Devil",
+        "value": 0.007,
+        "megaValue": 0.0734,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Tarsier",
+        "value": 0.007,
+        "megaValue": 0.0734,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Tarantula",
+        "value": 0.0045,
+        "megaValue": 0.0268,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Tanuki",
+        "value": 0.0065,
+        "megaValue": 0.0495,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Tan Chow-Chow",
+        "value": 0.0065,
+        "megaValue": 0.0592,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Swordfish",
+        "value": 0.0045,
+        "megaValue": 0.0244,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Sweetheart Rat",
+        "value": 0.0065,
+        "megaValue": 0.0495,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Swan",
+        "value": 0.014,
+        "megaValue": 0.242,
+        "neonValue": 0,
+        "flyValue": 0.0129,
+        "rideValue": 0.0126
+      },
+      {
+        "name": "Super Saru",
+        "value": 0.009,
+        "megaValue": 0.1034,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Sunrise Duckling",
+        "value": 0.009,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Sunglider",
+        "value": 0.0085,
+        "megaValue": 0.0819,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Summer Walrus",
+        "value": 0.0065,
+        "megaValue": 0.0592,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Sugar Glider",
+        "value": 0.074,
+        "megaValue": 1.18,
+        "neonValue": 0,
+        "flyValue": 0.071,
+        "rideValue": 0.069
+      },
+      {
+        "name": "Sugar Axolotl",
+        "value": 0.03,
+        "megaValue": 0.509,
+        "neonValue": 0,
+        "flyValue": 0.026,
+        "rideValue": 0.026
+      },
+      {
+        "name": "Subzero Scorpion",
+        "value": 0.0065,
+        "megaValue": 0.049,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Striped Eggy",
+        "value": 0.008,
+        "megaValue": 0.0819,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Strawberry Shortcake Bat Dragon",
+        "value": 0.129,
+        "megaValue": 1.26,
+        "neonValue": 0,
+        "flyValue": 0.124,
+        "rideValue": 0.124
+      },
+      {
+        "name": "Strawberry Penguin",
+        "value": 0.0475,
+        "megaValue": 0.8,
+        "neonValue": 0,
+        "flyValue": 0.041,
+        "rideValue": 0.041
+      },
+      {
+        "name": "Stingray",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Steppe Lion",
+        "value": 0.006,
+        "megaValue": 0.0378,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Stegosaurus",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "St Bernard",
+        "value": 0.007,
+        "megaValue": 0.0712,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Starmite",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Starhopper",
+        "value": 0.0055,
+        "megaValue": 0.0356,
+        "neonValue": 0,
+        "flyValue": 0.0041,
+        "rideValue": 0.0038
+      },
+      {
+        "name": "Starfish",
+        "value": 0.0065,
+        "megaValue": 0.0462,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Squid",
+        "value": 0.01,
+        "megaValue": 0.154,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Sprout Snail",
+        "value": 0.0065,
+        "megaValue": 0.0495,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Spinosaurus",
+        "value": 0.013,
+        "megaValue": 0.211,
+        "neonValue": 0,
+        "flyValue": 0.011,
+        "rideValue": 0.0107
+      },
+      {
+        "name": "Spider Crab",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Space Whale",
+        "value": 0.008,
+        "megaValue": 0.089,
+        "neonValue": 0,
+        "flyValue": 0.006,
+        "rideValue": 0.0056
+      },
+      {
+        "name": "Snowy Mammoth",
+        "value": 0.0065,
+        "megaValue": 0.0371,
+        "neonValue": 0,
+        "flyValue": 0.0039,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Snow Puma",
+        "value": 0.0035,
+        "megaValue": 0.0131,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Snow Owl",
+        "value": 0.0095,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Snow Monkey",
+        "value": 0.013,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Snowman",
+        "value": 0.0055,
+        "megaValue": 0.0357,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Snow Leopard",
+        "value": 0.0055,
+        "megaValue": 0.0365,
+        "neonValue": 0,
+        "flyValue": 0.004,
+        "rideValue": 0.0037
+      },
+      {
+        "name": "Snow Cat",
+        "value": 0.003,
+        "megaValue": 0.0052,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Snowball Pug",
+        "value": 0.0065,
+        "megaValue": 0.0516,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Snowball Pet",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Snorgle",
+        "value": 0.004,
+        "megaValue": 0.0227,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Sneak Weasel",
+        "value": 0.003,
+        "megaValue": 0.0071,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Slug",
+        "value": 0.0045,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Sloth",
+        "value": 0.0065,
+        "megaValue": 0.0645,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Slimingo",
+        "value": 0.0065,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Slime",
+        "value": 0.019,
+        "megaValue": 0.301,
+        "neonValue": 0,
+        "flyValue": 0.017,
+        "rideValue": 0.016
+      },
+      {
+        "name": "Skunk",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Skele-Rex",
+        "value": 0.013,
+        "megaValue": 0.202,
+        "neonValue": 0,
+        "flyValue": 0.011,
+        "rideValue": 0.0107
+      },
+      {
+        "name": "Skelebat",
+        "value": 0.006,
+        "megaValue": 0.0371,
+        "neonValue": 0,
+        "flyValue": 0.0039,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Singularity Pisces",
+        "value": 0.006,
+        "megaValue": 0.0445,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Singularity Beetle",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Silly Duck",
+        "value": 0.015,
+        "megaValue": 0.24,
+        "neonValue": 0,
+        "flyValue": 0.0127,
+        "rideValue": 0.0124
+      },
+      {
+        "name": "Siamese Cat",
+        "value": 0.045,
+        "megaValue": 0.514,
+        "neonValue": 0,
+        "flyValue": 0.039,
+        "rideValue": 0.039
+      },
+      {
+        "name": "Shrew",
+        "value": 0.0325,
+        "megaValue": 0.551,
+        "neonValue": 0,
+        "flyValue": 0.03,
+        "rideValue": 0.029
+      },
+      {
+        "name": "Show Pony",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Shiver Wolf",
+        "value": 0.007,
+        "megaValue": 0.0757,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Shih Tzu",
+        "value": 0.0035,
+        "megaValue": 0.0083,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Shiba Inu",
+        "value": 0.0045,
+        "megaValue": 0.0225,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Shetland Pony White",
+        "value": 0.0065,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Shetland Pony Light Brown",
+        "value": 0.0095,
+        "megaValue": 0.144,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Shetland Pony Dark Brown",
+        "value": 0.0045,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Sheeeeep",
+        "value": 0.04,
+        "megaValue": 0.73,
+        "neonValue": 0,
+        "flyValue": 0.037,
+        "rideValue": 0.036
+      },
+      {
+        "name": "Shark",
+        "value": 0.0115,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Shark Puppy",
+        "value": 0.0425,
+        "megaValue": 0.76,
+        "neonValue": 0,
+        "flyValue": 0.039,
+        "rideValue": 0.038
+      },
+      {
+        "name": "Shadow Dragon",
+        "value": 1.95,
+        "megaValue": 16,
+        "neonValue": 0,
+        "flyValue": 1.93,
+        "rideValue": 1.93
+      },
+      {
+        "name": "Sea Slug",
+        "value": 0.035,
+        "megaValue": 0.61,
+        "neonValue": 0,
+        "flyValue": 0.032,
+        "rideValue": 0.032
+      },
+      {
+        "name": "Sea Skeleton Panda",
+        "value": 0.004,
+        "megaValue": 0.0227,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Seahorse",
+        "value": 0.0055,
+        "megaValue": 0.0344,
+        "neonValue": 0,
+        "flyValue": 0.004,
+        "rideValue": 0.0037
+      },
+      {
+        "name": "Seagull",
+        "value": 0.0065,
+        "megaValue": 0.0602,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Seafoam Butterfly",
+        "value": 0.006,
+        "megaValue": 0.0445,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Seabed Creeper",
+        "value": 0.0055,
+        "megaValue": 0.0357,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Sea Angel",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Scorching Kaijunior",
+        "value": 0.015,
+        "megaValue": 0.216,
+        "neonValue": 0,
+        "flyValue": 0.011,
+        "rideValue": 0.0107
+      },
+      {
+        "name": "Scarlet Butterfly",
+        "value": 0.0065,
+        "megaValue": 0.0623,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Scarecrow",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Scarecrow Horse",
+        "value": 0.005,
+        "megaValue": 0.0294,
+        "neonValue": 0,
+        "flyValue": 0.0035,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Scarecrow Crow",
+        "value": 0.008,
+        "megaValue": 0.0846,
+        "neonValue": 0,
+        "flyValue": 0.0064,
+        "rideValue": 0.006
+      },
+      {
+        "name": "Scarecrow Cat",
+        "value": 0.0065,
+        "megaValue": 0.0546,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Scarebear",
+        "value": 0.009,
+        "megaValue": 0.1034,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Sasquatch",
+        "value": 0.0065,
+        "megaValue": 0.0516,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Sandfish",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Samoyed",
+        "value": 0.004,
+        "megaValue": 0.0119,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.002
+      },
+      {
+        "name": "Salamander",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Sakura Spirit",
+        "value": 0.035,
+        "megaValue": 0.485,
+        "neonValue": 0,
+        "flyValue": 0.026,
+        "rideValue": 0.026
+      },
+      {
+        "name": "Sado Mole",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Sabertooth",
+        "value": 0.0065,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Royal Palace Spaniel",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Royal Mistletroll",
+        "value": 0.035,
+        "megaValue": 0.57,
+        "neonValue": 0,
+        "flyValue": 0.03,
+        "rideValue": 0.029
+      },
+      {
+        "name": "Royal Corgi",
+        "value": 0.014,
+        "megaValue": 0.221,
+        "neonValue": 0,
+        "flyValue": 0.0119,
+        "rideValue": 0.0115
+      },
+      {
+        "name": "Royal Capuchin Monkey",
+        "value": 0.009,
+        "megaValue": 0.12,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Rosy Maple Moth",
+        "value": 0.0075,
+        "megaValue": 0.072,
+        "neonValue": 0,
+        "flyValue": 0.0059,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Rose Dragon",
+        "value": 0.04,
+        "megaValue": 0.625,
+        "neonValue": 0,
+        "flyValue": 0.032,
+        "rideValue": 0.032
+      },
+      {
+        "name": "Rooster",
+        "value": 0.0065,
+        "megaValue": 0.0658,
+        "neonValue": 0,
+        "flyValue": 0.0052,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Rodeo Bull",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Rock",
+        "value": 0.005,
+        "megaValue": 0.0309,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Rock Pigeon",
+        "value": 0.005,
+        "megaValue": 0.0294,
+        "neonValue": 0,
+        "flyValue": 0.0035,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Robot",
+        "value": 0.0045,
+        "megaValue": 0.0203,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0022
+      },
+      {
+        "name": "Robo Dog",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Robin",
+        "value": 0.005,
+        "megaValue": 0.0301,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0034
+      },
+      {
+        "name": "Roadrunner",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Ring-Tailed Lemur",
+        "value": 0.035,
+        "megaValue": 0.6,
+        "neonValue": 0,
+        "flyValue": 0.032,
+        "rideValue": 0.032
+      },
+      {
+        "name": "Ringmaster Gibbon",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Rice Cake Rabbit",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Ribbon Seal",
+        "value": 0.0045,
+        "megaValue": 0.0154,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0022
+      },
+      {
+        "name": "Rhino",
+        "value": 0.013,
+        "megaValue": 0.21,
+        "neonValue": 0,
+        "flyValue": 0.0115,
+        "rideValue": 0.0113
+      },
+      {
+        "name": "Rhino Beetle",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Reindeer",
+        "value": 0.0095,
+        "megaValue": 0.139,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Red Squirrel",
+        "value": 0.0085,
+        "megaValue": 0.1034,
+        "neonValue": 0,
+        "flyValue": 0.0068,
+        "rideValue": 0.0064
+      },
+      {
+        "name": "Red Sand Dollar",
+        "value": 0.013,
+        "megaValue": 0.173,
+        "neonValue": 0,
+        "flyValue": 0.0093,
+        "rideValue": 0.0091
+      },
+      {
+        "name": "Red Panda",
+        "value": 0.0045,
+        "megaValue": 0.0225,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Red Fox",
+        "value": 0.006,
+        "megaValue": 0.0371,
+        "neonValue": 0,
+        "flyValue": 0.0039,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Red Crowned Crane",
+        "value": 0.0055,
+        "megaValue": 0.0344,
+        "neonValue": 0,
+        "flyValue": 0.004,
+        "rideValue": 0.0037
+      },
+      {
+        "name": "Red Cardinal",
+        "value": 0.0045,
+        "megaValue": 0.0225,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Rat",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Rattlesnake",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Ratatoskr",
+        "value": 0.0035,
+        "megaValue": 0.0125,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Ram",
+        "value": 0.0175,
+        "megaValue": 0.259,
+        "neonValue": 0,
+        "flyValue": 0.0145,
+        "rideValue": 0.014
+      },
+      {
+        "name": "Rainbow Dragon",
+        "value": 0.014,
+        "megaValue": 0.211,
+        "neonValue": 0,
+        "flyValue": 0.011,
+        "rideValue": 0.0107
+      },
+      {
+        "name": "Raccoon",
+        "value": 0.0065,
+        "megaValue": 0.0451,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Rabbit",
+        "value": 0.0035,
+        "megaValue": 0.0107,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Quokka",
+        "value": 0.008,
+        "megaValue": 0.0774,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Quetzalcoatl",
+        "value": 0.0065,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Queen Bee",
+        "value": 0.0175,
+        "megaValue": 0.259,
+        "neonValue": 0,
+        "flyValue": 0.0145,
+        "rideValue": 0.014
+      },
+      {
+        "name": "Purple Butterfly",
+        "value": 0.0275,
+        "megaValue": 0.436,
+        "neonValue": 0,
+        "flyValue": 0.022,
+        "rideValue": 0.022
+      },
+      {
+        "name": "Puptune",
+        "value": 0.0065,
+        "megaValue": 0.0504,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Punk Pony",
+        "value": 0.006,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Pumpkin Friend",
+        "value": 0.0065,
+        "megaValue": 0.0637,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Puma",
+        "value": 0.003,
+        "megaValue": 0.0069,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Puffin",
+        "value": 0.03,
+        "megaValue": 0.466,
+        "neonValue": 0,
+        "flyValue": 0.024,
+        "rideValue": 0.024
+      },
+      {
+        "name": "Puffer Fish",
+        "value": 0.01,
+        "megaValue": 0.1504,
+        "neonValue": 0,
+        "flyValue": 0.008,
+        "rideValue": 0.0075
+      },
+      {
+        "name": "Pudding Cat",
+        "value": 0.0065,
+        "megaValue": 0.0559,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Pterodactyl",
+        "value": 0.005,
+        "megaValue": 0.0309,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Prism Snake",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Prismatic Butterfly",
+        "value": 0.0105,
+        "megaValue": 0.163,
+        "neonValue": 0,
+        "flyValue": 0.0089,
+        "rideValue": 0.0087
+      },
+      {
+        "name": "Princess Capuchin Monkey",
+        "value": 0.009,
+        "megaValue": 0.12,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Primal Kaijunior",
+        "value": 0.0075,
+        "megaValue": 0.0683,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Priceless Shrimp",
+        "value": 0.008,
+        "megaValue": 0.0864,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Pretty Pony",
+        "value": 0.009,
+        "megaValue": 0.1183,
+        "neonValue": 0,
+        "flyValue": 0.007,
+        "rideValue": 0.0065
+      },
+      {
+        "name": "Preppy Capuchin Monkey",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Praying Mantis",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Possum",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Poodle",
+        "value": 0.0035,
+        "megaValue": 0.015,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Pomeranian",
+        "value": 0.0065,
+        "megaValue": 0.0645,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Polar Bear",
+        "value": 0.03,
+        "megaValue": 0.43,
+        "neonValue": 0,
+        "flyValue": 0.029,
+        "rideValue": 0.028
+      },
+      {
+        "name": "Poison Dart Frog",
+        "value": 0.004,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Platypus",
+        "value": 0.03,
+        "megaValue": 0.499,
+        "neonValue": 0,
+        "flyValue": 0.027,
+        "rideValue": 0.026
+      },
+      {
+        "name": "Pirate Hermit Crab",
+        "value": 0.013,
+        "megaValue": 0.216,
+        "neonValue": 0,
+        "flyValue": 0.011,
+        "rideValue": 0.0107
+      },
+      {
+        "name": "Pirate Ghost Capuchin Monkey",
+        "value": 0.035,
+        "megaValue": 0.62,
+        "neonValue": 0,
+        "flyValue": 0.032,
+        "rideValue": 0.032
+      },
+      {
+        "name": "Piranha",
+        "value": 0.004,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Pink Cat",
+        "value": 0.04,
+        "megaValue": 0.578,
+        "neonValue": 0,
+        "flyValue": 0.039,
+        "rideValue": 0.038
+      },
+      {
+        "name": "Pink Betta Fish",
+        "value": 0.0065,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Pine Marten",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Pineapple Owl",
+        "value": 0.035,
+        "megaValue": 0.6,
+        "neonValue": 0,
+        "flyValue": 0.03,
+        "rideValue": 0.029
+      },
+      {
+        "name": "Pig",
+        "value": 0.0425,
+        "megaValue": 0.493,
+        "neonValue": 0,
+        "flyValue": 0.041,
+        "rideValue": 0.041
+      },
+      {
+        "name": "Phoenix",
+        "value": 0.0115,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Phantom Dragon",
+        "value": 0.0225,
+        "megaValue": 0.388,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Persian Cat",
+        "value": 0.005,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0035,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Peregrine Falcon",
+        "value": 0.0065,
+        "megaValue": 0.049,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Peppermint Penguin",
+        "value": 0.115,
+        "megaValue": 1.358,
+        "neonValue": 0,
+        "flyValue": 0.108,
+        "rideValue": 0.108
+      },
+      {
+        "name": "Penguin",
+        "value": 0.0065,
+        "megaValue": 0.0645,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Pelican",
+        "value": 0.17,
+        "megaValue": 2.716,
+        "neonValue": 0,
+        "flyValue": 0.16,
+        "rideValue": 0.159
+      },
+      {
+        "name": "Peacock",
+        "value": 0.01,
+        "megaValue": 0.154,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Peach Owl",
+        "value": 0.0175,
+        "megaValue": 0.25,
+        "neonValue": 0,
+        "flyValue": 0.0136,
+        "rideValue": 0.0132
+      },
+      {
+        "name": "Patchy Bear",
+        "value": 0.0035,
+        "megaValue": 0.0109,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Partridge",
+        "value": 0.007,
+        "megaValue": 0.0712,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Parrot",
+        "value": 0.66,
+        "megaValue": 8.6,
+        "neonValue": 0,
+        "flyValue": 0.6575,
+        "rideValue": 0.6575
+      },
+      {
+        "name": "Parakeet",
+        "value": 0.0035,
+        "megaValue": 0.0141,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Papa Moose",
+        "value": 0.04,
+        "megaValue": 0.725,
+        "neonValue": 0,
+        "flyValue": 0.037,
+        "rideValue": 0.036
+      },
+      {
+        "name": "Panda",
+        "value": 0.0095,
+        "megaValue": 0.141,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0071
+      },
+      {
+        "name": "Ox",
+        "value": 0.0035,
+        "megaValue": 0.015,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Owl",
+        "value": 0.835,
+        "megaValue": 9.75,
+        "neonValue": 0,
+        "flyValue": 0.8325,
+        "rideValue": 0.8325
+      },
+      {
+        "name": "Owlbear",
+        "value": 0.0475,
+        "megaValue": 0.72,
+        "neonValue": 0,
+        "flyValue": 0.044,
+        "rideValue": 0.043
+      },
+      {
+        "name": "Otter",
+        "value": 0.003,
+        "megaValue": 0.0043,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Ostrich",
+        "value": 0.0065,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Oryx",
+        "value": 0.004,
+        "megaValue": 0.0227,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Ornate Horned Frog",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Orchid Butterfly",
+        "value": 0.235,
+        "megaValue": 3.825,
+        "neonValue": 0,
+        "flyValue": 0.231,
+        "rideValue": 0.23
+      },
+      {
+        "name": "Orca",
+        "value": 0.0065,
+        "megaValue": 0.0559,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Orangutan",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Orange Butterfly",
+        "value": 0.0105,
+        "megaValue": 0.163,
+        "neonValue": 0,
+        "flyValue": 0.0089,
+        "rideValue": 0.0087
+      },
+      {
+        "name": "Orange Betta Fish",
+        "value": 0.005,
+        "megaValue": 0.0309,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Onza",
+        "value": 0.0045,
+        "megaValue": 0.0131,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.002
+      },
+      {
+        "name": "Old King Coal",
+        "value": 0.005,
+        "megaValue": 0.0263,
+        "neonValue": 0,
+        "flyValue": 0.003,
+        "rideValue": 0.0026
+      },
+      {
+        "name": "Officer Gibbon",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Octopus",
+        "value": 0.011,
+        "megaValue": 0.163,
+        "neonValue": 0,
+        "flyValue": 0.0089,
+        "rideValue": 0.0087
+      },
+      {
+        "name": "Ocelot",
+        "value": 0.0045,
+        "megaValue": 0.0142,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0022
+      },
+      {
+        "name": "Nutcracker Squirrel",
+        "value": 0.006,
+        "megaValue": 0.0378,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Ninja Monkey",
+        "value": 0.014,
+        "megaValue": 0.242,
+        "neonValue": 0,
+        "flyValue": 0.0129,
+        "rideValue": 0.0126
+      },
+      {
+        "name": "Nightmare Owl",
+        "value": 0.007,
+        "megaValue": 0.0645,
+        "neonValue": 0,
+        "flyValue": 0.0051,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Nessie",
+        "value": 0.0325,
+        "megaValue": 0.558,
+        "neonValue": 0,
+        "flyValue": 0.028,
+        "rideValue": 0.028
+      },
+      {
+        "name": "Nebula Snake",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Nautilus",
+        "value": 0.009,
+        "megaValue": 0.106,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.007
+      },
+      {
+        "name": "Naughty Mistletroll",
+        "value": 0.0125,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Narwhal",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Naga Dragon",
+        "value": 0.0095,
+        "megaValue": 0.134,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Muskrat",
+        "value": 0.0035,
+        "megaValue": 0.0095,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Musk Ox",
+        "value": 0.008,
+        "megaValue": 0.091,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Mushroom Friend",
+        "value": 0.009,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Munchkin Cat",
+        "value": 0.0205,
+        "megaValue": 0.31,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Mule",
+        "value": 0.018,
+        "megaValue": 0.281,
+        "neonValue": 0,
+        "flyValue": 0.016,
+        "rideValue": 0.015
+      },
+      {
+        "name": "Mr. Whiskerpips",
+        "value": 0.007,
+        "megaValue": 0.0728,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Mrs. Whiskerpips",
+        "value": 0.005,
+        "megaValue": 0.0166,
+        "neonValue": 0,
+        "flyValue": 0.003,
+        "rideValue": 0.0025
+      },
+      {
+        "name": "Mouse",
+        "value": 0.003,
+        "megaValue": 0.0059,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Mosquito",
+        "value": 0.0035,
+        "megaValue": 0.015,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Moose Calf",
+        "value": 0.035,
+        "megaValue": 0.65,
+        "neonValue": 0,
+        "flyValue": 0.032,
+        "rideValue": 0.032
+      },
+      {
+        "name": "Moon Rabbit",
+        "value": 0.008,
+        "megaValue": 0.091,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Moonpine",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Moonlight Moth",
+        "value": 0.0065,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Moonbeam Butterfly",
+        "value": 0.0105,
+        "megaValue": 0.163,
+        "neonValue": 0,
+        "flyValue": 0.0089,
+        "rideValue": 0.0087
+      },
+      {
+        "name": "Monkey",
+        "value": 0.005,
+        "megaValue": 0.0323,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0034
+      },
+      {
+        "name": "Monkey King",
+        "value": 0.125,
+        "megaValue": 2.35,
+        "neonValue": 0,
+        "flyValue": 0.12,
+        "rideValue": 0.12
+      },
+      {
+        "name": "Mongoose",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Momma Moose",
+        "value": 0.0065,
+        "megaValue": 0.0683,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Mole",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Mistletroll",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Mirai Moth",
+        "value": 0.0065,
+        "megaValue": 0.0462,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Mini Schnauzer",
+        "value": 0.01,
+        "megaValue": 0.154,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Mini Pig",
+        "value": 0.135,
+        "megaValue": 2.125,
+        "neonValue": 0,
+        "flyValue": 0.132,
+        "rideValue": 0.128
+      },
+      {
+        "name": "Midnight Dragon",
+        "value": 0.025,
+        "megaValue": 0.369,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.02
+      },
+      {
+        "name": "Metal Ox",
+        "value": 0.0065,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Merry Mistletroll",
+        "value": 0.007,
+        "megaValue": 0.077,
+        "neonValue": 0,
+        "flyValue": 0.0059,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Mermicorn",
+        "value": 0.0825,
+        "megaValue": 1.35,
+        "neonValue": 0,
+        "flyValue": 0.083,
+        "rideValue": 0.081
+      },
+      {
+        "name": "Merhorse",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Meerkat",
+        "value": 0.04,
+        "megaValue": 0.619,
+        "neonValue": 0,
+        "flyValue": 0.034,
+        "rideValue": 0.033
+      },
+      {
+        "name": "Mecha R4BBIT",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Mechapup",
+        "value": 0.03,
+        "megaValue": 0.504,
+        "neonValue": 0,
+        "flyValue": 0.026,
+        "rideValue": 0.026
+      },
+      {
+        "name": "Mecha Meow",
+        "value": 0.009,
+        "megaValue": 0.1128,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Marabou Stork",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Many Mackerel",
+        "value": 0.04,
+        "megaValue": 0.7,
+        "neonValue": 0,
+        "flyValue": 0.037,
+        "rideValue": 0.036
+      },
+      {
+        "name": "Manta Ray",
+        "value": 0.006,
+        "megaValue": 0.0344,
+        "neonValue": 0,
+        "flyValue": 0.004,
+        "rideValue": 0.0037
+      },
+      {
+        "name": "Maneki-Neko",
+        "value": 0.01,
+        "megaValue": 0.134,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Maleo Bird",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Malaysian Tapir",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Majestic Pony",
+        "value": 0.02,
+        "megaValue": 0.301,
+        "neonValue": 0,
+        "flyValue": 0.017,
+        "rideValue": 0.016
+      },
+      {
+        "name": "Maine Coon",
+        "value": 0.005,
+        "megaValue": 0.0166,
+        "neonValue": 0,
+        "flyValue": 0.003,
+        "rideValue": 0.0025
+      },
+      {
+        "name": "Mahi Mahi",
+        "value": 0.0035,
+        "megaValue": 0.0095,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Magpie",
+        "value": 0.003,
+        "megaValue": 0.0071,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Magma Snail",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Magma Moose",
+        "value": 0.0065,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Lynx",
+        "value": 0.01,
+        "megaValue": 0.1456,
+        "neonValue": 0,
+        "flyValue": 0.0078,
+        "rideValue": 0.0072
+      },
+      {
+        "name": "Lunar White Tiger",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Lunar Tiger",
+        "value": 0.004,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Lunar Ox",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Lunar Moon Bear",
+        "value": 0.0085,
+        "megaValue": 0.091,
+        "neonValue": 0,
+        "flyValue": 0.0066,
+        "rideValue": 0.0062
+      },
+      {
+        "name": "Lunar Gold Tiger",
+        "value": 0.0065,
+        "megaValue": 0.0623,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Love Bird",
+        "value": 0.0065,
+        "megaValue": 0.0516,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Longhorn Cow",
+        "value": 0.0065,
+        "megaValue": 0.0504,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Lobster",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Llama",
+        "value": 0.02,
+        "megaValue": 0.336,
+        "neonValue": 0,
+        "flyValue": 0.018,
+        "rideValue": 0.018
+      },
+      {
+        "name": "Lion",
+        "value": 0.074,
+        "megaValue": 1.023,
+        "neonValue": 0,
+        "flyValue": 0.072,
+        "rideValue": 0.07
+      },
+      {
+        "name": "Lionfish",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Lion Cub",
+        "value": 0.045,
+        "megaValue": 0.825,
+        "neonValue": 0,
+        "flyValue": 0.041,
+        "rideValue": 0.041
+      },
+      {
+        "name": "Liger",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Leviathan",
+        "value": 0.016,
+        "megaValue": 0.24,
+        "neonValue": 0,
+        "flyValue": 0.0136,
+        "rideValue": 0.0132
+      },
+      {
+        "name": "Leopard Shark",
+        "value": 0.015,
+        "megaValue": 0.23,
+        "neonValue": 0,
+        "flyValue": 0.0127,
+        "rideValue": 0.0124
+      },
+      {
+        "name": "Leopard Cat",
+        "value": 0.008,
+        "megaValue": 0.0819,
+        "neonValue": 0,
+        "flyValue": 0.0058,
+        "rideValue": 0.0054
+      },
+      {
+        "name": "Lavender Dragon",
+        "value": 0.02,
+        "megaValue": 0.336,
+        "neonValue": 0,
+        "flyValue": 0.018,
+        "rideValue": 0.018
+      },
+      {
+        "name": "Lava Wolf",
+        "value": 0.0125,
+        "megaValue": 0.192,
+        "neonValue": 0,
+        "flyValue": 0.0106,
+        "rideValue": 0.0103
+      },
+      {
+        "name": "Lava Dragon",
+        "value": 0.0275,
+        "megaValue": 0.383,
+        "neonValue": 0,
+        "flyValue": 0.023,
+        "rideValue": 0.023
+      },
+      {
+        "name": "Lammergeier",
+        "value": 0.005,
+        "megaValue": 0.0323,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0034
+      },
+      {
+        "name": "Lamb",
+        "value": 0.02,
+        "megaValue": 0.307,
+        "neonValue": 0,
+        "flyValue": 0.017,
+        "rideValue": 0.017
+      },
+      {
+        "name": "Ladybug",
+        "value": 0.0065,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Kraken",
+        "value": 0.0075,
+        "megaValue": 0.0683,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Kookaburra",
+        "value": 0.02,
+        "megaValue": 0.291,
+        "neonValue": 0,
+        "flyValue": 0.016,
+        "rideValue": 0.015
+      },
+      {
+        "name": "Komodo Dragon",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Koi Carp",
+        "value": 0.0065,
+        "megaValue": 0.0623,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Koala",
+        "value": 0.007,
+        "megaValue": 0.0757,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Kiwi",
+        "value": 0.009,
+        "megaValue": 0.1183,
+        "neonValue": 0,
+        "flyValue": 0.007,
+        "rideValue": 0.0065
+      },
+      {
+        "name": "Kitty Bat",
+        "value": 0.007,
+        "megaValue": 0.0637,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Kitsune",
+        "value": 0.01,
+        "megaValue": 0.106,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Kirin",
+        "value": 0.005,
+        "megaValue": 0.0268,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "King Penguin",
+        "value": 0.0065,
+        "megaValue": 0.0623,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "King Bee",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Kid Goat",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Kelp Raider",
+        "value": 0.0055,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Kelp Hunter",
+        "value": 0.006,
+        "megaValue": 0.0344,
+        "neonValue": 0,
+        "flyValue": 0.004,
+        "rideValue": 0.0037
+      },
+      {
+        "name": "Kelp Crewmate",
+        "value": 0.0045,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Kelp Captain",
+        "value": 0.01,
+        "megaValue": 0.154,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Karate Gorilla",
+        "value": 0.009,
+        "megaValue": 0.096,
+        "neonValue": 0,
+        "flyValue": 0.0068,
+        "rideValue": 0.0066
+      },
+      {
+        "name": "Kappakid",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Kangaroo",
+        "value": 0.095,
+        "megaValue": 0.585,
+        "neonValue": 0,
+        "flyValue": 0.09,
+        "rideValue": 0.088
+      },
+      {
+        "name": "Kaijunior",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Kage Crow",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Jumping Spider",
+        "value": 0.004,
+        "megaValue": 0.015,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Jousting Horse",
+        "value": 0.015,
+        "megaValue": 0.23,
+        "neonValue": 0,
+        "flyValue": 0.0127,
+        "rideValue": 0.0124
+      },
+      {
+        "name": "Jellyfish",
+        "value": 0.0425,
+        "megaValue": 0.74,
+        "neonValue": 0,
+        "flyValue": 0.039,
+        "rideValue": 0.038
+      },
+      {
+        "name": "Jekyll Hydra",
+        "value": 0.06,
+        "megaValue": 0.974,
+        "neonValue": 0,
+        "flyValue": 0.059,
+        "rideValue": 0.059
+      },
+      {
+        "name": "Japanese Snow Fairy",
+        "value": 0.003,
+        "megaValue": 0.0071,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Island Tarsier",
+        "value": 0.004,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Irish Water Spaniel",
+        "value": 0.05,
+        "megaValue": 0.8,
+        "neonValue": 0,
+        "flyValue": 0.044,
+        "rideValue": 0.043
+      },
+      {
+        "name": "Irish Elk",
+        "value": 0.008,
+        "megaValue": 0.089,
+        "neonValue": 0,
+        "flyValue": 0.006,
+        "rideValue": 0.0056
+      },
+      {
+        "name": "Inmate Capuchin Monkey",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Influencer Gibbon",
+        "value": 0.0095,
+        "megaValue": 0.1222,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0071
+      },
+      {
+        "name": "Indian Leopard",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Indian Flying Fox",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Icy Porcupine",
+        "value": 0.0065,
+        "megaValue": 0.0413,
+        "neonValue": 0,
+        "flyValue": 0.0039,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Ice Wolf",
+        "value": 0.015,
+        "megaValue": 0.221,
+        "neonValue": 0,
+        "flyValue": 0.0119,
+        "rideValue": 0.0115
+      },
+      {
+        "name": "Ice Moth Dragon",
+        "value": 0.0085,
+        "megaValue": 0.0846,
+        "neonValue": 0,
+        "flyValue": 0.0064,
+        "rideValue": 0.006
+      },
+      {
+        "name": "Ice Golem",
+        "value": 0.0175,
+        "megaValue": 0.294,
+        "neonValue": 0,
+        "flyValue": 0.016,
+        "rideValue": 0.016
+      },
+      {
+        "name": "Ice Cube",
+        "value": 0.0045,
+        "megaValue": 0.0273,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Ice Cream Hermit Crab",
+        "value": 0.0225,
+        "megaValue": 0.326,
+        "neonValue": 0,
+        "flyValue": 0.018,
+        "rideValue": 0.017
+      },
+      {
+        "name": "Ibis",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Ibex",
+        "value": 0.005,
+        "megaValue": 0.0323,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0034
+      },
+      {
+        "name": "Hyena",
+        "value": 0.03,
+        "megaValue": 0.493,
+        "neonValue": 0,
+        "flyValue": 0.029,
+        "rideValue": 0.028
+      },
+      {
+        "name": "Hydra",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Husky",
+        "value": 0.016,
+        "megaValue": 0.24,
+        "neonValue": 0,
+        "flyValue": 0.0136,
+        "rideValue": 0.0132
+      },
+      {
+        "name": "Hummingbird",
+        "value": 0.0065,
+        "megaValue": 0.0546,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Humbug",
+        "value": 0.0035,
+        "megaValue": 0.0125,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Hot Doggo",
+        "value": 0.11,
+        "megaValue": 1.845,
+        "neonValue": 0,
+        "flyValue": 0.108,
+        "rideValue": 0.108
+      },
+      {
+        "name": "Horse",
+        "value": 0.009,
+        "megaValue": 0.1092,
+        "neonValue": 0,
+        "flyValue": 0.007,
+        "rideValue": 0.0065
+      },
+      {
+        "name": "Hopbop",
+        "value": 0.0035,
+        "megaValue": 0.0131,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Honey Badger",
+        "value": 0.0275,
+        "megaValue": 0.466,
+        "neonValue": 0,
+        "flyValue": 0.024,
+        "rideValue": 0.024
+      },
+      {
+        "name": "Hippo",
+        "value": 0.007,
+        "megaValue": 0.0751,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Hippogriff",
+        "value": 0.0115,
+        "megaValue": 0.173,
+        "neonValue": 0,
+        "flyValue": 0.0093,
+        "rideValue": 0.0091
+      },
+      {
+        "name": "Highland Cow",
+        "value": 0.0085,
+        "megaValue": 0.091,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Hero Gibbon",
+        "value": 0.015,
+        "megaValue": 0.23,
+        "neonValue": 0,
+        "flyValue": 0.0127,
+        "rideValue": 0.0124
+      },
+      {
+        "name": "Hermit Crab",
+        "value": 0.004,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Hedgehog",
+        "value": 0.3,
+        "megaValue": 3.75,
+        "neonValue": 0,
+        "flyValue": 0.285,
+        "rideValue": 0.285
+      },
+      {
+        "name": "Headless Horse",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Hawk",
+        "value": 0.0095,
+        "megaValue": 0.12,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Harp Seal",
+        "value": 0.0105,
+        "megaValue": 0.163,
+        "neonValue": 0,
+        "flyValue": 0.0089,
+        "rideValue": 0.0087
+      },
+      {
+        "name": "Hare",
+        "value": 0.035,
+        "megaValue": 0.485,
+        "neonValue": 0,
+        "flyValue": 0.024,
+        "rideValue": 0.024
+      },
+      {
+        "name": "Happy Duckling",
+        "value": 0.009,
+        "megaValue": 0.094,
+        "neonValue": 0,
+        "flyValue": 0.0064,
+        "rideValue": 0.006
+      },
+      {
+        "name": "Happy Clam",
+        "value": 0.0225,
+        "megaValue": 0.412,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Hamster",
+        "value": 0.0075,
+        "megaValue": 0.0728,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Hammerhead Shark",
+        "value": 0.005,
+        "megaValue": 0.0244,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Halloween White Skeleton Dog",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Halloween White Mummy Cat",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Halloween White Ghost Dragon",
+        "value": 0.0275,
+        "megaValue": 0.394,
+        "neonValue": 0,
+        "flyValue": 0.023,
+        "rideValue": 0.023
+      },
+      {
+        "name": "Halloween Golden Mummy Cat",
+        "value": 0.0085,
+        "megaValue": 0.094,
+        "neonValue": 0,
+        "flyValue": 0.0068,
+        "rideValue": 0.0064
+      },
+      {
+        "name": "Halloween Evil Dachshund",
+        "value": 0.0065,
+        "megaValue": 0.0516,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Halloween Blue Scorpion",
+        "value": 0.0045,
+        "megaValue": 0.0268,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Halloween Black Mummy Cat",
+        "value": 0.0045,
+        "megaValue": 0.0268,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Haetae",
+        "value": 0.165,
+        "megaValue": 2.716,
+        "neonValue": 0,
+        "flyValue": 0.167,
+        "rideValue": 0.167
+      },
+      {
+        "name": "Guardian Lion",
+        "value": 0.0095,
+        "megaValue": 0.144,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Ground Sloth",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Groundhog",
+        "value": 0.03,
+        "megaValue": 0.504,
+        "neonValue": 0,
+        "flyValue": 0.026,
+        "rideValue": 0.026
+      },
+      {
+        "name": "Grinmoire",
+        "value": 0.0045,
+        "megaValue": 0.0142,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0022
+      },
+      {
+        "name": "Grim Dragon",
+        "value": 0.0325,
+        "megaValue": 0.557,
+        "neonValue": 0,
+        "flyValue": 0.03,
+        "rideValue": 0.029
+      },
+      {
+        "name": "Griffin",
+        "value": 0.009,
+        "megaValue": 0.096,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Green-Chested Pheasant",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Green Butterfly",
+        "value": 0.016,
+        "megaValue": 0.24,
+        "neonValue": 0,
+        "flyValue": 0.0136,
+        "rideValue": 0.0132
+      },
+      {
+        "name": "Green Amazon",
+        "value": 0.008,
+        "megaValue": 0.0819,
+        "neonValue": 0,
+        "flyValue": 0.0058,
+        "rideValue": 0.0054
+      },
+      {
+        "name": "Great Pyrenees",
+        "value": 0.009,
+        "megaValue": 0.1157,
+        "neonValue": 0,
+        "flyValue": 0.0067,
+        "rideValue": 0.0063
+      },
+      {
+        "name": "Grave Owl",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Gorilla",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Goose",
+        "value": 0.085,
+        "megaValue": 1.19,
+        "neonValue": 0,
+        "flyValue": 0.083,
+        "rideValue": 0.081
+      },
+      {
+        "name": "Gold Mahi Mahi",
+        "value": 0.0045,
+        "megaValue": 0.0225,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Goldhorn",
+        "value": 0.0115,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Goldfish",
+        "value": 0.0065,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Golden Walrus",
+        "value": 0.0125,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Golden Unicorn",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Golden Tortoise Beetle",
+        "value": 0.0075,
+        "megaValue": 0.0637,
+        "neonValue": 0,
+        "flyValue": 0.0058,
+        "rideValue": 0.0054
+      },
+      {
+        "name": "Golden Rat",
+        "value": 0.013,
+        "megaValue": 0.192,
+        "neonValue": 0,
+        "flyValue": 0.0106,
+        "rideValue": 0.0103
+      },
+      {
+        "name": "Golden Penguin",
+        "value": 0.018,
+        "megaValue": 0.315,
+        "neonValue": 0,
+        "flyValue": 0.017,
+        "rideValue": 0.016
+      },
+      {
+        "name": "Golden Ladybug",
+        "value": 0.01,
+        "megaValue": 0.134,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Golden King Penguin",
+        "value": 0.0095,
+        "megaValue": 0.144,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Golden Jaguar",
+        "value": 0.0065,
+        "megaValue": 0.0645,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Golden Hummingbird",
+        "value": 0.009,
+        "megaValue": 0.1128,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Golden Hamster",
+        "value": 0.0105,
+        "megaValue": 0.144,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Golden Griffin",
+        "value": 0.0085,
+        "megaValue": 0.091,
+        "neonValue": 0,
+        "flyValue": 0.0066,
+        "rideValue": 0.0062
+      },
+      {
+        "name": "Golden Dragon",
+        "value": 0.009,
+        "megaValue": 0.1138,
+        "neonValue": 0,
+        "flyValue": 0.007,
+        "rideValue": 0.0065
+      },
+      {
+        "name": "Golden Chow-Chow",
+        "value": 0.021,
+        "megaValue": 0.315,
+        "neonValue": 0,
+        "flyValue": 0.018,
+        "rideValue": 0.017
+      },
+      {
+        "name": "Golden Albatross",
+        "value": 0.009,
+        "megaValue": 0.1175,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Goat",
+        "value": 0.055,
+        "megaValue": 0.96,
+        "neonValue": 0,
+        "flyValue": 0.051,
+        "rideValue": 0.05
+      },
+      {
+        "name": "Glyptodon",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Glormy Leo",
+        "value": 0.02,
+        "megaValue": 0.315,
+        "neonValue": 0,
+        "flyValue": 0.018,
+        "rideValue": 0.017
+      },
+      {
+        "name": "Glormy Hound",
+        "value": 0.015,
+        "megaValue": 0.23,
+        "neonValue": 0,
+        "flyValue": 0.0127,
+        "rideValue": 0.0124
+      },
+      {
+        "name": "Glormy Dolphin",
+        "value": 0.0075,
+        "megaValue": 0.0712,
+        "neonValue": 0,
+        "flyValue": 0.0056,
+        "rideValue": 0.0052
+      },
+      {
+        "name": "Glacier Moth",
+        "value": 0.0225,
+        "megaValue": 0.398,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Glacier Kitsune",
+        "value": 0.0225,
+        "megaValue": 0.407,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Giraffe",
+        "value": 1.305,
+        "megaValue": 12.35,
+        "neonValue": 0,
+        "flyValue": 1.305,
+        "rideValue": 1.305
+      },
+      {
+        "name": "Ginger Cat",
+        "value": 0.006,
+        "megaValue": 0.0371,
+        "neonValue": 0,
+        "flyValue": 0.0039,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Gingerbread Reindeer",
+        "value": 0.0065,
+        "megaValue": 0.049,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Gingerbread Mouse",
+        "value": 0.0055,
+        "megaValue": 0.0344,
+        "neonValue": 0,
+        "flyValue": 0.004,
+        "rideValue": 0.0037
+      },
+      {
+        "name": "Gingerbread Hare",
+        "value": 0.006,
+        "megaValue": 0.0445,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Gilded Snake",
+        "value": 0.009,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Gila Monster",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Gibbon",
+        "value": 0.004,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Giant Panda",
+        "value": 0.18,
+        "megaValue": 4.2,
+        "neonValue": 0,
+        "flyValue": 0.266,
+        "rideValue": 0.265
+      },
+      {
+        "name": "Giant Gold Scarab",
+        "value": 0.0225,
+        "megaValue": 0.339,
+        "neonValue": 0,
+        "flyValue": 0.019,
+        "rideValue": 0.018
+      },
+      {
+        "name": "Giant Blue Scarab",
+        "value": 0.009,
+        "megaValue": 0.1128,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Giant Black Scarab",
+        "value": 0.0075,
+        "megaValue": 0.0819,
+        "neonValue": 0,
+        "flyValue": 0.0058,
+        "rideValue": 0.0054
+      },
+      {
+        "name": "Giant Anteater",
+        "value": 0.0275,
+        "megaValue": 0.461,
+        "neonValue": 0,
+        "flyValue": 0.024,
+        "rideValue": 0.024
+      },
+      {
+        "name": "Ghost Wolf",
+        "value": 0.0045,
+        "megaValue": 0.0273,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Ghost",
+        "value": 0.005,
+        "megaValue": 0.0309,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Ghostly Cat",
+        "value": 0.006,
+        "megaValue": 0.0375,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0032
+      },
+      {
+        "name": "Ghost Dog",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Ghost Chick",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Ghost Bunny",
+        "value": 0.009,
+        "megaValue": 0.134,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "German Shepherd",
+        "value": 0.015,
+        "megaValue": 0.233,
+        "neonValue": 0,
+        "flyValue": 0.0131,
+        "rideValue": 0.0129
+      },
+      {
+        "name": "Gecko",
+        "value": 0.008,
+        "megaValue": 0.0751,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Gargoyle",
+        "value": 0.009,
+        "megaValue": 0.134,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Garden Snake",
+        "value": 0.0035,
+        "megaValue": 0.015,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Gaelic Fae",
+        "value": 0.013,
+        "megaValue": 0.211,
+        "neonValue": 0,
+        "flyValue": 0.011,
+        "rideValue": 0.0107
+      },
+      {
+        "name": "Frozen Penguin",
+        "value": 0.006,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Frost Unicorn",
+        "value": 0.055,
+        "megaValue": 0.9,
+        "neonValue": 0,
+        "flyValue": 0.054,
+        "rideValue": 0.052
+      },
+      {
+        "name": "Frost Phoenix",
+        "value": 0.02,
+        "megaValue": 0.272,
+        "neonValue": 0,
+        "flyValue": 0.015,
+        "rideValue": 0.015
+      },
+      {
+        "name": "Frost Fury",
+        "value": 0.035,
+        "megaValue": 0.336,
+        "neonValue": 0,
+        "flyValue": 0.032,
+        "rideValue": 0.032
+      },
+      {
+        "name": "Frost Dragon",
+        "value": 1,
+        "megaValue": 10,
+        "neonValue": 0,
+        "flyValue": 1,
+        "rideValue": 1
+      },
+      {
+        "name": "Frostclaw",
+        "value": 0.0075,
+        "megaValue": 0.0637,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Frostbite Cub",
+        "value": 0.009,
+        "megaValue": 0.089,
+        "neonValue": 0,
+        "flyValue": 0.006,
+        "rideValue": 0.0056
+      },
+      {
+        "name": "Frostbite Bear",
+        "value": 0.0375,
+        "megaValue": 0.7,
+        "neonValue": 0,
+        "flyValue": 0.037,
+        "rideValue": 0.036
+      },
+      {
+        "name": "Frog",
+        "value": 0.007,
+        "megaValue": 0.0623,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Frogspawn",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "French Bulldog",
+        "value": 0.01,
+        "megaValue": 0.154,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Frankenfeline",
+        "value": 0.0035,
+        "megaValue": 0.015,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Fossa",
+        "value": 0.0045,
+        "megaValue": 0.0268,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Flying Fish",
+        "value": 0.0035,
+        "megaValue": 0.0131,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Flower Power Duckling",
+        "value": 0.008,
+        "megaValue": 0.0819,
+        "neonValue": 0,
+        "flyValue": 0.0058,
+        "rideValue": 0.0054
+      },
+      {
+        "name": "Floral Eggy",
+        "value": 0.0055,
+        "megaValue": 0.0301,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0034
+      },
+      {
+        "name": "Fleur De Ice",
+        "value": 0.0085,
+        "megaValue": 0.0846,
+        "neonValue": 0,
+        "flyValue": 0.0064,
+        "rideValue": 0.006
+      },
+      {
+        "name": "Flaming Zebra",
+        "value": 0.0075,
+        "megaValue": 0.0801,
+        "neonValue": 0,
+        "flyValue": 0.0056,
+        "rideValue": 0.0052
+      },
+      {
+        "name": "Flamingo",
+        "value": 0.1025,
+        "megaValue": 1.785,
+        "neonValue": 0,
+        "flyValue": 0.099,
+        "rideValue": 0.098
+      },
+      {
+        "name": "Flaming Fox",
+        "value": 0.0225,
+        "megaValue": 0.33,
+        "neonValue": 0,
+        "flyValue": 0.018,
+        "rideValue": 0.018
+      },
+      {
+        "name": "Firefly",
+        "value": 0.0125,
+        "megaValue": 0.173,
+        "neonValue": 0,
+        "flyValue": 0.0093,
+        "rideValue": 0.0091
+      },
+      {
+        "name": "Firefighter Gibbon",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Field Mouse",
+        "value": 0.0475,
+        "megaValue": 0.85,
+        "neonValue": 0,
+        "flyValue": 0.044,
+        "rideValue": 0.043
+      },
+      {
+        "name": "Fennec Fox",
+        "value": 0.003,
+        "megaValue": 0.0078,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Feesh",
+        "value": 0.0065,
+        "megaValue": 0.0451,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Fanghorn Tortoise",
+        "value": 0.0065,
+        "megaValue": 0.049,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Fallow Deer",
+        "value": 0.035,
+        "megaValue": 0.582,
+        "neonValue": 0,
+        "flyValue": 0.031,
+        "rideValue": 0.03
+      },
+      {
+        "name": "Fairy Bat Dragon",
+        "value": 0.0625,
+        "megaValue": 0.725,
+        "neonValue": 0,
+        "flyValue": 0.061,
+        "rideValue": 0.059
+      },
+      {
+        "name": "Evil Unicorn",
+        "value": 0.4425,
+        "megaValue": 5.2,
+        "neonValue": 0,
+        "flyValue": 0.435,
+        "rideValue": 0.435
+      },
+      {
+        "name": "Evil Rock",
+        "value": 0.009,
+        "megaValue": 0.134,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Evil Chick",
+        "value": 0.008,
+        "megaValue": 0.0799,
+        "neonValue": 0,
+        "flyValue": 0.006,
+        "rideValue": 0.0056
+      },
+      {
+        "name": "Evil Chickatrice",
+        "value": 0.0065,
+        "megaValue": 0.0559,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Evil Basilisk",
+        "value": 0.0065,
+        "megaValue": 0.0623,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Ermine",
+        "value": 0.005,
+        "megaValue": 0.0309,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "English Sheepdog",
+        "value": 0.0095,
+        "megaValue": 0.141,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0071
+      },
+      {
+        "name": "Emu",
+        "value": 0.006,
+        "megaValue": 0.0378,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Emperor Shrimp",
+        "value": 0.0055,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Emperor Gorilla",
+        "value": 0.025,
+        "megaValue": 0.436,
+        "neonValue": 0,
+        "flyValue": 0.022,
+        "rideValue": 0.022
+      },
+      {
+        "name": "Emberlight",
+        "value": 0.0175,
+        "megaValue": 0.259,
+        "neonValue": 0,
+        "flyValue": 0.0145,
+        "rideValue": 0.014
+      },
+      {
+        "name": "Elephant",
+        "value": 0.088,
+        "megaValue": 1.129,
+        "neonValue": 0,
+        "flyValue": 0.085,
+        "rideValue": 0.085
+      },
+      {
+        "name": "Elasmosaurus",
+        "value": 0.0065,
+        "megaValue": 0.0559,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Ehecatl",
+        "value": 0.0045,
+        "megaValue": 0.0119,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.002
+      },
+      {
+        "name": "Eggnog Hare",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Eggnog Dog",
+        "value": 0.0065,
+        "megaValue": 0.0588,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Eel",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Dugong",
+        "value": 0.005,
+        "megaValue": 0.0263,
+        "neonValue": 0,
+        "flyValue": 0.003,
+        "rideValue": 0.0026
+      },
+      {
+        "name": "Drake",
+        "value": 0.0095,
+        "megaValue": 0.144,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Dragon",
+        "value": 0.007,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Dragonfruit Fox",
+        "value": 0.0425,
+        "megaValue": 0.9,
+        "neonValue": 0,
+        "flyValue": 0.046,
+        "rideValue": 0.045
+      },
+      {
+        "name": "Dragonfly",
+        "value": 0.0065,
+        "megaValue": 0.0504,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.0042
+      },
+      {
+        "name": "Dracula Parrot",
+        "value": 0.0065,
+        "megaValue": 0.0611,
+        "neonValue": 0,
+        "flyValue": 0.0052,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Dracula Fish",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Dotted Eggy",
+        "value": 0.0045,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Donkey",
+        "value": 0.003,
+        "megaValue": 0.0109,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Dolphin",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Dog",
+        "value": 0.003,
+        "megaValue": 0.0043,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Dodo",
+        "value": 0.0125,
+        "megaValue": 0.192,
+        "neonValue": 0,
+        "flyValue": 0.0106,
+        "rideValue": 0.0103
+      },
+      {
+        "name": "DJ Snooze",
+        "value": 0.0055,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Dire Stag",
+        "value": 0.0085,
+        "megaValue": 0.0846,
+        "neonValue": 0,
+        "flyValue": 0.0064,
+        "rideValue": 0.006
+      },
+      {
+        "name": "Dingo",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Dimorphodon",
+        "value": 0.009,
+        "megaValue": 0.1128,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Dimension Drifter",
+        "value": 0.0075,
+        "megaValue": 0.0637,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Dilophosaurus",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Diamond Unicorn",
+        "value": 0.0115,
+        "megaValue": 0.173,
+        "neonValue": 0,
+        "flyValue": 0.0093,
+        "rideValue": 0.0091
+      },
+      {
+        "name": "Diamond Mahi Mahi",
+        "value": 0.0065,
+        "megaValue": 0.0559,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Diamond Ladybug",
+        "value": 0.0215,
+        "megaValue": 0.291,
+        "neonValue": 0,
+        "flyValue": 0.016,
+        "rideValue": 0.015
+      },
+      {
+        "name": "Diamond King Penguin",
+        "value": 0.018,
+        "megaValue": 0.272,
+        "neonValue": 0,
+        "flyValue": 0.015,
+        "rideValue": 0.015
+      },
+      {
+        "name": "Diamond Hummingbird",
+        "value": 0.015,
+        "megaValue": 0.24,
+        "neonValue": 0,
+        "flyValue": 0.0127,
+        "rideValue": 0.0124
+      },
+      {
+        "name": "Diamond Hamster",
+        "value": 0.0215,
+        "megaValue": 0.33,
+        "neonValue": 0,
+        "flyValue": 0.018,
+        "rideValue": 0.018
+      },
+      {
+        "name": "Diamond Griffin",
+        "value": 0.009,
+        "megaValue": 0.1222,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Diamond Dragon",
+        "value": 0.0095,
+        "megaValue": 0.141,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0071
+      },
+      {
+        "name": "Diamond Butterfly",
+        "value": 0.275,
+        "megaValue": 3.7,
+        "neonValue": 0,
+        "flyValue": 0.268,
+        "rideValue": 0.265
+      },
+      {
+        "name": "Diamond Amazon",
+        "value": 0.03,
+        "megaValue": 0.509,
+        "neonValue": 0,
+        "flyValue": 0.026,
+        "rideValue": 0.026
+      },
+      {
+        "name": "Diamond Albatross",
+        "value": 0.0225,
+        "megaValue": 0.339,
+        "neonValue": 0,
+        "flyValue": 0.019,
+        "rideValue": 0.018
+      },
+      {
+        "name": "Deinonychus",
+        "value": 0.0065,
+        "megaValue": 0.0473,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Deathstalker Scorpion",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Dango Penguins",
+        "value": 0.04,
+        "megaValue": 0.825,
+        "neonValue": 0,
+        "flyValue": 0.041,
+        "rideValue": 0.041
+      },
+      {
+        "name": "Dancing Dragon",
+        "value": 0.023,
+        "megaValue": 0.357,
+        "neonValue": 0,
+        "flyValue": 0.019,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Dalmatian",
+        "value": 0.245,
+        "megaValue": 2.65,
+        "neonValue": 0,
+        "flyValue": 0.235,
+        "rideValue": 0.235
+      },
+      {
+        "name": "Cute-A-Cabra",
+        "value": 0.0055,
+        "megaValue": 0.0357,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Cupid Dragon",
+        "value": 0.0575,
+        "megaValue": 0.75,
+        "neonValue": 0,
+        "flyValue": 0.041,
+        "rideValue": 0.041
+      },
+      {
+        "name": "Cuddly Candle",
+        "value": 0.01,
+        "megaValue": 0.154,
+        "neonValue": 0,
+        "flyValue": 0.0085,
+        "rideValue": 0.0083
+      },
+      {
+        "name": "Cryptid",
+        "value": 0.22,
+        "megaValue": 2.409,
+        "neonValue": 0,
+        "flyValue": 0.276,
+        "rideValue": 0.274
+      },
+      {
+        "name": "Crow",
+        "value": 0.555,
+        "megaValue": 7.4,
+        "neonValue": 0,
+        "flyValue": 0.555,
+        "rideValue": 0.555
+      },
+      {
+        "name": "Crocodile",
+        "value": 0.075,
+        "megaValue": 1.012,
+        "neonValue": 0,
+        "flyValue": 0.073,
+        "rideValue": 0.071
+      },
+      {
+        "name": "Criosphinx",
+        "value": 0.009,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Crab",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Cozy Mistletroll",
+        "value": 0.0055,
+        "megaValue": 0.019,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Coyote",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Cow",
+        "value": 0.1475,
+        "megaValue": 1.375,
+        "neonValue": 0,
+        "flyValue": 0.1425,
+        "rideValue": 0.14
+      },
+      {
+        "name": "Cow Calf",
+        "value": 0.007,
+        "megaValue": 0.0712,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Corn Doggo",
+        "value": 0.014,
+        "megaValue": 0.221,
+        "neonValue": 0,
+        "flyValue": 0.0119,
+        "rideValue": 0.0115
+      },
+      {
+        "name": "Corgi",
+        "value": 0.005,
+        "megaValue": 0.0263,
+        "neonValue": 0,
+        "flyValue": 0.003,
+        "rideValue": 0.0026
+      },
+      {
+        "name": "Cold Cube",
+        "value": 0.005,
+        "megaValue": 0.0301,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0034
+      },
+      {
+        "name": "Coconut Friend",
+        "value": 0.008,
+        "megaValue": 0.0712,
+        "neonValue": 0,
+        "flyValue": 0.0056,
+        "rideValue": 0.0052
+      },
+      {
+        "name": "Cockroach",
+        "value": 0.004,
+        "megaValue": 0.0227,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Cobra",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Clownfish",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Clover Cow",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Clementine Owl",
+        "value": 0.0065,
+        "megaValue": 0.0637,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Classic Teapot",
+        "value": 0.0055,
+        "megaValue": 0.033,
+        "neonValue": 0,
+        "flyValue": 0.0036,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Christmas Spirit",
+        "value": 0.0065,
+        "megaValue": 0.03,
+        "neonValue": 0,
+        "flyValue": 0.0045,
+        "rideValue": 0.004
+      },
+      {
+        "name": "Christmas Pudding Pup",
+        "value": 0.023,
+        "megaValue": 0.359,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.02
+      },
+      {
+        "name": "Choco Penguin",
+        "value": 0.0065,
+        "megaValue": 0.0579,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Chocolate Labrador",
+        "value": 0.003,
+        "megaValue": 0.0059,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Chocolate Chow-Chow",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Chocolate Chip Bat Dragon",
+        "value": 0.11,
+        "megaValue": 1.218,
+        "neonValue": 0,
+        "flyValue": 0.107,
+        "rideValue": 0.107
+      },
+      {
+        "name": "Chipmunk",
+        "value": 0.007,
+        "megaValue": 0.0751,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Chimera",
+        "value": 0.0095,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Chilling Spider",
+        "value": 0.006,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Chick",
+        "value": 0.0065,
+        "megaValue": 0.067,
+        "neonValue": 0,
+        "flyValue": 0.0055,
+        "rideValue": 0.0054
+      },
+      {
+        "name": "Chicken",
+        "value": 0.013,
+        "megaValue": 0.202,
+        "neonValue": 0,
+        "flyValue": 0.011,
+        "rideValue": 0.0107
+      },
+      {
+        "name": "Chickatrice",
+        "value": 0.0045,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Cherub Chipmunk",
+        "value": 0.0035,
+        "megaValue": 0.0083,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Chef Gorilla",
+        "value": 0.013,
+        "megaValue": 0.173,
+        "neonValue": 0,
+        "flyValue": 0.0093,
+        "rideValue": 0.0091
+      },
+      {
+        "name": "Cheetah",
+        "value": 0.017,
+        "megaValue": 0.259,
+        "neonValue": 0,
+        "flyValue": 0.0145,
+        "rideValue": 0.014
+      },
+      {
+        "name": "Chanekeh",
+        "value": 0.004,
+        "megaValue": 0.0095,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Chameleon",
+        "value": 0.009,
+        "megaValue": 0.134,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Cerberus",
+        "value": 0.011,
+        "megaValue": 0.173,
+        "neonValue": 0,
+        "flyValue": 0.0093,
+        "rideValue": 0.0091
+      },
+      {
+        "name": "Cat",
+        "value": 0.003,
+        "megaValue": 0.0043,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Caterpillar",
+        "value": 0.09,
+        "megaValue": 1.45,
+        "neonValue": 0,
+        "flyValue": 0.088,
+        "rideValue": 0.085
+      },
+      {
+        "name": "Castle Hermit Crab",
+        "value": 0.0075,
+        "megaValue": 0.0846,
+        "neonValue": 0,
+        "flyValue": 0.006,
+        "rideValue": 0.0056
+      },
+      {
+        "name": "Cassowary",
+        "value": 0.006,
+        "megaValue": 0.043,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Capybara",
+        "value": 0.013,
+        "megaValue": 0.202,
+        "neonValue": 0,
+        "flyValue": 0.011,
+        "rideValue": 0.0107
+      },
+      {
+        "name": "Capuchin Monkey",
+        "value": 0.0045,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Capricorn",
+        "value": 0.013,
+        "megaValue": 0.22,
+        "neonValue": 0,
+        "flyValue": 0.012,
+        "rideValue": 0.0117
+      },
+      {
+        "name": "Candy Hare",
+        "value": 0.018,
+        "megaValue": 0.278,
+        "neonValue": 0,
+        "flyValue": 0.015,
+        "rideValue": 0.015
+      },
+      {
+        "name": "Candyfloss Chick",
+        "value": 0.085,
+        "megaValue": 1.25,
+        "neonValue": 0,
+        "flyValue": 0.083,
+        "rideValue": 0.081
+      },
+      {
+        "name": "Candy Cane Snail",
+        "value": 0.0065,
+        "megaValue": 0.0556,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Canadian Goose",
+        "value": 0.006,
+        "megaValue": 0.042,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Camel",
+        "value": 0.003,
+        "megaValue": 0.0094,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Caelum Cervi",
+        "value": 0.0325,
+        "megaValue": 0.533,
+        "neonValue": 0,
+        "flyValue": 0.026,
+        "rideValue": 0.026
+      },
+      {
+        "name": "Cactus Friend",
+        "value": 0.0115,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Cabbit",
+        "value": 0.0875,
+        "megaValue": 0.8,
+        "neonValue": 0,
+        "flyValue": 0.085,
+        "rideValue": 0.083
+      },
+      {
+        "name": "Business Monkey",
+        "value": 0.0095,
+        "megaValue": 0.144,
+        "neonValue": 0,
+        "flyValue": 0.0081,
+        "rideValue": 0.0078
+      },
+      {
+        "name": "Bush Elephant",
+        "value": 0.0475,
+        "megaValue": 0.83,
+        "neonValue": 0,
+        "flyValue": 0.044,
+        "rideValue": 0.043
+      },
+      {
+        "name": "Burning Bunny",
+        "value": 0.007,
+        "megaValue": 0.0774,
+        "neonValue": 0,
+        "flyValue": 0.0054,
+        "rideValue": 0.0051
+      },
+      {
+        "name": "Bunny",
+        "value": 0.0035,
+        "megaValue": 0.0107,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Bunny Swirl",
+        "value": 0.0085,
+        "megaValue": 0.094,
+        "neonValue": 0,
+        "flyValue": 0.0064,
+        "rideValue": 0.006
+      },
+      {
+        "name": "Bullfrog",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Buffalo",
+        "value": 0.003,
+        "megaValue": 0.0043,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Brown Springer Spaniel",
+        "value": 0.01,
+        "megaValue": 0.1504,
+        "neonValue": 0,
+        "flyValue": 0.008,
+        "rideValue": 0.0075
+      },
+      {
+        "name": "Brown-Chested Pheasant",
+        "value": 0.0065,
+        "megaValue": 0.0592,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "Brown Bear",
+        "value": 0.03,
+        "megaValue": 0.473,
+        "neonValue": 0,
+        "flyValue": 0.029,
+        "rideValue": 0.028
+      },
+      {
+        "name": "Brachiosaurus",
+        "value": 0.004,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Borhyaena Gigantica",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Border Collie",
+        "value": 0.0675,
+        "megaValue": 1.16,
+        "neonValue": 0,
+        "flyValue": 0.063,
+        "rideValue": 0.062
+      },
+      {
+        "name": "Blue Ringed Octopus",
+        "value": 0.0085,
+        "megaValue": 0.091,
+        "neonValue": 0,
+        "flyValue": 0.0062,
+        "rideValue": 0.0058
+      },
+      {
+        "name": "Blue Jay",
+        "value": 0.005,
+        "megaValue": 0.0268,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Blue Dog",
+        "value": 0.073,
+        "megaValue": 0.977,
+        "neonValue": 0,
+        "flyValue": 0.071,
+        "rideValue": 0.069
+      },
+      {
+        "name": "Blue Butterfly",
+        "value": 0.0035,
+        "megaValue": 0.0165,
+        "neonValue": 0,
+        "flyValue": 0.0023,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Bluebottle Fly",
+        "value": 0.0035,
+        "megaValue": 0.015,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Blue Betta Fish",
+        "value": 0.009,
+        "megaValue": 0.1034,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Blossom Snake",
+        "value": 0.0065,
+        "megaValue": 0.0534,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Bloodhound",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Blazing Lion",
+        "value": 0.28,
+        "megaValue": 4.225,
+        "neonValue": 0,
+        "flyValue": 0.268,
+        "rideValue": 0.265
+      },
+      {
+        "name": "Black Widow",
+        "value": 0.009,
+        "megaValue": 0.1092,
+        "neonValue": 0,
+        "flyValue": 0.007,
+        "rideValue": 0.0065
+      },
+      {
+        "name": "Black Springer Spaniel",
+        "value": 0.0095,
+        "megaValue": 0.141,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0071
+      },
+      {
+        "name": "Black Panther",
+        "value": 0.0105,
+        "megaValue": 0.163,
+        "neonValue": 0,
+        "flyValue": 0.0089,
+        "rideValue": 0.0087
+      },
+      {
+        "name": "Black Moon Bear",
+        "value": 0.0045,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Black Marlin",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Black Macaque",
+        "value": 0.0065,
+        "megaValue": 0.0645,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Black Kite",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Black Dog",
+        "value": 0.005,
+        "megaValue": 0.0289,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Black Chow-Chow",
+        "value": 0.009,
+        "megaValue": 0.125,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Black-Chested Pheasant",
+        "value": 0.04,
+        "megaValue": 0.725,
+        "neonValue": 0,
+        "flyValue": 0.037,
+        "rideValue": 0.036
+      },
+      {
+        "name": "Bird of Paradise",
+        "value": 0.0055,
+        "megaValue": 0.0336,
+        "neonValue": 0,
+        "flyValue": 0.0038,
+        "rideValue": 0.0036
+      },
+      {
+        "name": "Binturong",
+        "value": 0.009,
+        "megaValue": 0.1316,
+        "neonValue": 0,
+        "flyValue": 0.0072,
+        "rideValue": 0.0067
+      },
+      {
+        "name": "Billy Goat",
+        "value": 0.009,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Berry Cool Cube",
+        "value": 0.009,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Beluga Whale",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Bee",
+        "value": 0.006,
+        "megaValue": 0.0387,
+        "neonValue": 0,
+        "flyValue": 0.0043,
+        "rideValue": 0.0041
+      },
+      {
+        "name": "Beaver",
+        "value": 0.003,
+        "megaValue": 0.0071,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Bauble Buddies",
+        "value": 0.0065,
+        "megaValue": 0.0516,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Bat",
+        "value": 0.0045,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Bat Dragon",
+        "value": 2.91,
+        "megaValue": 21.35,
+        "neonValue": 0,
+        "flyValue": 2.91,
+        "rideValue": 2.91
+      },
+      {
+        "name": "Basilisk",
+        "value": 0.006,
+        "megaValue": 0.0378,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Bandicoot",
+        "value": 0.004,
+        "megaValue": 0.0206,
+        "neonValue": 0,
+        "flyValue": 0.0026,
+        "rideValue": 0.0024
+      },
+      {
+        "name": "Banded Palm Civet",
+        "value": 0.004,
+        "megaValue": 0.0188,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.0021
+      },
+      {
+        "name": "Balloon Unicorn",
+        "value": 0.355,
+        "megaValue": 5.4,
+        "neonValue": 0,
+        "flyValue": 0.368,
+        "rideValue": 0.365
+      },
+      {
+        "name": "Bali Starling",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Bald Eagle",
+        "value": 0.0275,
+        "megaValue": 0.446,
+        "neonValue": 0,
+        "flyValue": 0.022,
+        "rideValue": 0.022
+      },
+      {
+        "name": "Baku",
+        "value": 0.009,
+        "megaValue": 0.115,
+        "neonValue": 0,
+        "flyValue": 0.0076,
+        "rideValue": 0.0074
+      },
+      {
+        "name": "Bakeneko",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Badger",
+        "value": 0.0045,
+        "megaValue": 0.0142,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0022
+      },
+      {
+        "name": "Aye Aye",
+        "value": 0.003,
+        "megaValue": 0.0071,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Axolotl",
+        "value": 0.013,
+        "megaValue": 0.192,
+        "neonValue": 0,
+        "flyValue": 0.0106,
+        "rideValue": 0.0103
+      },
+      {
+        "name": "Australian Kelpie",
+        "value": 0.006,
+        "megaValue": 0.042,
+        "neonValue": 0,
+        "flyValue": 0.0042,
+        "rideValue": 0.0039
+      },
+      {
+        "name": "Aurora Fox",
+        "value": 0.0225,
+        "megaValue": 0.388,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Astronaut Gorilla",
+        "value": 0.014,
+        "megaValue": 0.182,
+        "neonValue": 0,
+        "flyValue": 0.0098,
+        "rideValue": 0.0095
+      },
+      {
+        "name": "Ash Zebra",
+        "value": 0.007,
+        "megaValue": 0.0757,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Armadillo",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Arctic Tern",
+        "value": 0.0045,
+        "megaValue": 0.0247,
+        "neonValue": 0,
+        "flyValue": 0.0029,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "Arctic Reindeer",
+        "value": 0.215,
+        "megaValue": 2.6,
+        "neonValue": 0,
+        "flyValue": 0.205,
+        "rideValue": 0.205
+      },
+      {
+        "name": "Arctic Hare",
+        "value": 0.005,
+        "megaValue": 0.0268,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.003
+      },
+      {
+        "name": "Arctic Fox",
+        "value": 0.04,
+        "megaValue": 0.462,
+        "neonValue": 0,
+        "flyValue": 0.037,
+        "rideValue": 0.036
+      },
+      {
+        "name": "Arctic Dusk Dragon",
+        "value": 0.0275,
+        "megaValue": 0.388,
+        "neonValue": 0,
+        "flyValue": 0.02,
+        "rideValue": 0.019
+      },
+      {
+        "name": "Apple Owl",
+        "value": 0.0175,
+        "megaValue": 0.25,
+        "neonValue": 0,
+        "flyValue": 0.0136,
+        "rideValue": 0.0132
+      },
+      {
+        "name": "Ant",
+        "value": 0.003,
+        "megaValue": 0.0052,
+        "neonValue": 0,
+        "flyValue": 0.0018,
+        "rideValue": 0.0015
+      },
+      {
+        "name": "Ankylosaurus",
+        "value": 0.005,
+        "megaValue": 0.0294,
+        "neonValue": 0,
+        "flyValue": 0.0035,
+        "rideValue": 0.0033
+      },
+      {
+        "name": "Angus Cow",
+        "value": 0.0035,
+        "megaValue": 0.0083,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Angus Calf",
+        "value": 0.0045,
+        "megaValue": 0.0142,
+        "neonValue": 0,
+        "flyValue": 0.0027,
+        "rideValue": 0.0022
+      },
+      {
+        "name": "Angus Bull",
+        "value": 0.0065,
+        "megaValue": 0.0537,
+        "neonValue": 0,
+        "flyValue": 0.0047,
+        "rideValue": 0.0044
+      },
+      {
+        "name": "Angler Fish",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Angelfish",
+        "value": 0.0035,
+        "megaValue": 0.0169,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Ancient Dragon",
+        "value": 0.007,
+        "megaValue": 0.0546,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0046
+      },
+      {
+        "name": "Amber Butterfly",
+        "value": 0.0045,
+        "megaValue": 0.0252,
+        "neonValue": 0,
+        "flyValue": 0.0031,
+        "rideValue": 0.0029
+      },
+      {
+        "name": "Amami Rabbit",
+        "value": 0.007,
+        "megaValue": 0.0712,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Alpaca",
+        "value": 0.0475,
+        "megaValue": 0.86,
+        "neonValue": 0,
+        "flyValue": 0.046,
+        "rideValue": 0.045
+      },
+      {
+        "name": "Alley Cat",
+        "value": 0.0325,
+        "megaValue": 0.485,
+        "neonValue": 0,
+        "flyValue": 0.024,
+        "rideValue": 0.024
+      },
+      {
+        "name": "Alicorn",
+        "value": 0.007,
+        "megaValue": 0.0668,
+        "neonValue": 0,
+        "flyValue": 0.0053,
+        "rideValue": 0.0049
+      },
+      {
+        "name": "Albino Monkey",
+        "value": 0.0925,
+        "megaValue": 1.5,
+        "neonValue": 0,
+        "flyValue": 0.086,
+        "rideValue": 0.085
+      },
+      {
+        "name": "Albino Gorilla",
+        "value": 0.017,
+        "megaValue": 0.24,
+        "neonValue": 0,
+        "flyValue": 0.0136,
+        "rideValue": 0.0132
+      },
+      {
+        "name": "Albino Bat",
+        "value": 0.0065,
+        "megaValue": 0.0668,
+        "neonValue": 0,
+        "flyValue": 0.0049,
+        "rideValue": 0.0045
+      },
+      {
+        "name": "Albatross",
+        "value": 0.0065,
+        "megaValue": 0.0683,
+        "neonValue": 0,
+        "flyValue": 0.005,
+        "rideValue": 0.0047
+      },
+      {
+        "name": "African Wild Dog",
+        "value": 0.365,
+        "megaValue": 5,
+        "neonValue": 0,
+        "flyValue": 0.393,
+        "rideValue": 0.39
+      },
+      {
+        "name": "Abyssinian Cat",
+        "value": 0.004,
+        "megaValue": 0.0131,
+        "neonValue": 0,
+        "flyValue": 0.0024,
+        "rideValue": 0.002
+      },
+      {
+        "name": "2D Kitty",
+        "value": 0.0275,
+        "megaValue": 0,
+        "neonValue": 0,
+        "flyValue": 0,
+        "rideValue": 0
+      },
+      {
+        "name": "2025 Birthday Butterfly",
+        "value": 0.0045,
+        "megaValue": 0,
+        "neonValue": 0,
+        "flyValue": 0,
+        "rideValue": 0
+      },
+      {
+        "name": "2022 Uplift Butterfly",
+        "value": 0.0055,
+        "megaValue": 0,
+        "neonValue": 0,
+        "flyValue": 0,
+        "rideValue": 0
+      },
+      {
+        "name": "2021 Uplift Butterfly",
+        "value": 0.006,
+        "megaValue": 0,
+        "neonValue": 0,
+        "flyValue": 0,
+        "rideValue": 0
+      },
+      {
+        "name": "★★☆",
+        "value": 0,
+        "megaValue": 2022,
+        "neonValue": 0,
+        "flyValue": 2,
+        "rideValue": 2
+      },
+      {
+        "name": "Fire Mare",
+        "value": 0,
+        "megaValue": 0.0712,
+        "neonValue": 0,
+        "flyValue": 0.0056,
+        "rideValue": 0.0052
+      },
+      {
+        "name": "Fire Stallion",
+        "value": 0,
+        "megaValue": 0.0344,
+        "neonValue": 0,
+        "flyValue": 0.004,
+        "rideValue": 0.0037
+      },
+      {
+        "name": "Dire Wolf",
+        "value": 0,
+        "megaValue": 0.025,
+        "neonValue": 0,
+        "flyValue": 0.0033,
+        "rideValue": 0.0027
+      },
+      {
+        "name": "★☆☆",
+        "value": 0,
+        "megaValue": 2025,
+        "neonValue": 0,
+        "flyValue": 2025,
+        "rideValue": 2025
+      },
+      {
+        "name": "Fire Foal",
+        "value": 0,
+        "megaValue": 0.0071,
+        "neonValue": 0,
+        "flyValue": 0.0021,
+        "rideValue": 0.0018
+      },
+      {
+        "name": "Directory",
+        "value": 0,
+        "megaValue": 2.91,
+        "neonValue": 0,
+        "flyValue": 0,
+        "rideValue": 0
+      },
+      {
+        "name": "Legal & Contact",
+        "value": 0,
+        "megaValue": 21.35,
+        "neonValue": 0,
+        "flyValue": 0,
+        "rideValue": 0
+      }
     ]
   }
 }
