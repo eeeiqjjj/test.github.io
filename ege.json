@@ -5522,36 +5522,12 @@
         "rideValue": 0.0027
       },
       {
-        "name": "★☆☆",
-        "value": 0,
-        "megaValue": 2025,
-        "neonValue": 0,
-        "flyValue": 2025,
-        "rideValue": 2025
-      },
-      {
         "name": "Fire Foal",
         "value": 0,
         "megaValue": 0.0071,
         "neonValue": 0,
         "flyValue": 0.0021,
         "rideValue": 0.0018
-      },
-      {
-        "name": "Directory",
-        "value": 0,
-        "megaValue": 2.91,
-        "neonValue": 0,
-        "flyValue": 0,
-        "rideValue": 0
-      },
-      {
-        "name": "Legal & Contact",
-        "value": 0,
-        "megaValue": 21.35,
-        "neonValue": 0,
-        "flyValue": 0,
-        "rideValue": 0
       }
     ]
   }
